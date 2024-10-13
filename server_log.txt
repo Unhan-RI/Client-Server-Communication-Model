@@ -1,0 +1,2108 @@
+2024-10-11 14:50:15,613 - Accepted connection from ('192.168.137.127', 55238)
+2024-10-11 14:50:15,615 - New connection from ('192.168.137.127', 55238)
+2024-10-11 14:50:19,770 - Message received from ('192.168.137.127', 55238): halo
+2024-10-11 14:50:19,770 - Reply sent to ('192.168.137.127', 55238)
+2024-10-11 14:50:32,212 - Message received from ('192.168.137.127', 55238): halo
+2024-10-11 14:50:32,213 - Reply sent to ('192.168.137.127', 55238)
+2024-10-11 14:50:57,599 - Connection closed with ('192.168.137.127', 55238)
+2024-10-11 14:52:09,397 - Accepted connection from ('192.168.137.127', 55249)
+2024-10-11 14:52:09,402 - New connection from ('192.168.137.127', 55249)
+2024-10-11 14:52:14,188 - Message received from ('192.168.137.127', 55249): halo
+2024-10-11 14:52:14,191 - Reply sent to ('192.168.137.127', 55249)
+2024-10-11 14:53:15,206 - Connection closed with ('192.168.137.127', 55249)
+2024-10-11 14:54:48,062 - Accepted connection from ('192.168.137.127', 55280)
+2024-10-11 14:54:48,067 - New connection from ('192.168.137.127', 55280)
+2024-10-11 14:54:53,844 - Message received from ('192.168.137.127', 55280): halo
+2024-10-11 14:54:53,845 - Reply sent to ('192.168.137.127', 55280)
+2024-10-11 15:01:53,153 - Accepted connection from ('192.168.56.1', 58329)
+2024-10-11 15:01:53,156 - New connection from ('192.168.56.1', 58329)
+2024-10-11 15:02:02,815 - Message received from ('192.168.56.1', 58329): halo
+2024-10-11 15:02:02,815 - Reply sent to ('192.168.56.1', 58329)
+2024-10-11 15:02:24,111 - Connection closed with ('192.168.56.1', 58329)
+2024-10-11 15:38:13,482 - Accepted connection from ('192.168.137.127', 55843)
+2024-10-11 15:38:13,486 - New connection from ('192.168.137.127', 55843)
+2024-10-11 15:38:18,664 - Message received from ('192.168.137.127', 55843): nis
+2024-10-11 15:38:18,665 - Reply sent to ('192.168.137.127', 55843)
+2024-10-11 16:19:44,036 - Connection with ('192.168.137.127', 55843) was closed.
+2024-10-11 16:19:44,036 - Connection closed with ('192.168.137.127', 55843)
+2024-10-12 15:21:08,332 - Accepted connection from ('127.0.0.1', 56457) on port 9991
+2024-10-12 15:21:08,332 - Accepted connection from ('127.0.0.1', 56460) on port 9992
+2024-10-12 15:21:08,333 - New connection from ('127.0.0.1', 56457)
+2024-10-12 15:21:08,333 - Accepted connection from ('127.0.0.1', 56462) on port 9993
+2024-10-12 15:21:08,333 - New connection from ('127.0.0.1', 56460)
+2024-10-12 15:21:08,333 - Accepted connection from ('127.0.0.1', 56465) on port 9991
+2024-10-12 15:21:08,333 - Message received from ('127.0.0.1', 56457): Hello from client 2!
+2024-10-12 15:21:08,333 - Accepted connection from ('127.0.0.1', 56467) on port 9992
+2024-10-12 15:21:08,333 - New connection from ('127.0.0.1', 56462)
+2024-10-12 15:21:08,334 - Message received from ('127.0.0.1', 56460): Hello from client 1!
+2024-10-12 15:21:08,334 - New connection from ('127.0.0.1', 56465)
+2024-10-12 15:21:08,334 - Accepted connection from ('127.0.0.1', 56470) on port 9993
+2024-10-12 15:21:08,334 - Reply sent to ('127.0.0.1', 56457)
+2024-10-12 15:21:08,334 - Accepted connection from ('127.0.0.1', 56472) on port 9991
+2024-10-12 15:21:08,335 - New connection from ('127.0.0.1', 56467)
+2024-10-12 15:21:08,335 - Message received from ('127.0.0.1', 56462): Hello from client 3!
+2024-10-12 15:21:08,335 - Reply sent to ('127.0.0.1', 56460)
+2024-10-12 15:21:08,335 - Accepted connection from ('127.0.0.1', 56475) on port 9992
+2024-10-12 15:21:08,335 - Message received from ('127.0.0.1', 56465): Hello from client 4!
+2024-10-12 15:21:08,335 - New connection from ('127.0.0.1', 56470)
+2024-10-12 15:21:08,335 - Connection closed with ('127.0.0.1', 56457)
+2024-10-12 15:21:08,335 - Accepted connection from ('127.0.0.1', 56478) on port 9993
+2024-10-12 15:21:08,335 - New connection from ('127.0.0.1', 56472)
+2024-10-12 15:21:08,337 - Message received from ('127.0.0.1', 56467): Hello from client 5!
+2024-10-12 15:21:08,337 - Accepted connection from ('127.0.0.1', 56480) on port 9991
+2024-10-12 15:21:08,337 - Reply sent to ('127.0.0.1', 56462)
+2024-10-12 15:21:08,337 - Connection closed with ('127.0.0.1', 56460)
+2024-10-12 15:21:08,337 - New connection from ('127.0.0.1', 56475)
+2024-10-12 15:21:08,337 - Reply sent to ('127.0.0.1', 56465)
+2024-10-12 15:21:08,337 - Accepted connection from ('127.0.0.1', 56483) on port 9992
+2024-10-12 15:21:08,337 - Message received from ('127.0.0.1', 56470): Hello from client 6!
+2024-10-12 15:21:08,338 - New connection from ('127.0.0.1', 56478)
+2024-10-12 15:21:08,338 - Message received from ('127.0.0.1', 56472): Hello from client 7!
+2024-10-12 15:21:08,338 - Accepted connection from ('127.0.0.1', 56485) on port 9993
+2024-10-12 15:21:08,338 - Reply sent to ('127.0.0.1', 56467)
+2024-10-12 15:21:08,338 - New connection from ('127.0.0.1', 56480)
+2024-10-12 15:21:08,338 - Accepted connection from ('127.0.0.1', 56487) on port 9991
+2024-10-12 15:21:08,338 - Connection closed with ('127.0.0.1', 56462)
+2024-10-12 15:21:08,339 - Message received from ('127.0.0.1', 56475): Hello from client 8!
+2024-10-12 15:21:08,339 - Connection closed with ('127.0.0.1', 56465)
+2024-10-12 15:21:08,339 - New connection from ('127.0.0.1', 56483)
+2024-10-12 15:21:08,339 - Reply sent to ('127.0.0.1', 56470)
+2024-10-12 15:21:08,339 - Accepted connection from ('127.0.0.1', 56490) on port 9992
+2024-10-12 15:21:08,339 - Message received from ('127.0.0.1', 56478): Hello from client 9!
+2024-10-12 15:21:08,339 - Reply sent to ('127.0.0.1', 56472)
+2024-10-12 15:21:08,339 - New connection from ('127.0.0.1', 56485)
+2024-10-12 15:21:08,339 - Connection closed with ('127.0.0.1', 56467)
+2024-10-12 15:21:08,339 - Message received from ('127.0.0.1', 56480): Hello from client 10!
+2024-10-12 15:21:08,341 - Accepted connection from ('127.0.0.1', 56492) on port 9993
+2024-10-12 15:21:08,341 - New connection from ('127.0.0.1', 56487)
+2024-10-12 15:21:08,341 - Accepted connection from ('127.0.0.1', 56495) on port 9991
+2024-10-12 15:21:08,341 - Reply sent to ('127.0.0.1', 56475)
+2024-10-12 15:21:08,341 - Message received from ('127.0.0.1', 56483): Hello from client 11!
+2024-10-12 15:21:08,342 - Connection closed with ('127.0.0.1', 56470)
+2024-10-12 15:21:08,342 - New connection from ('127.0.0.1', 56490)
+2024-10-12 15:21:08,342 - Reply sent to ('127.0.0.1', 56478)
+2024-10-12 15:21:08,342 - Accepted connection from ('127.0.0.1', 56498) on port 9992
+2024-10-12 15:21:08,342 - Connection closed with ('127.0.0.1', 56472)
+2024-10-12 15:21:08,342 - Message received from ('127.0.0.1', 56485): Hello from client 12!
+2024-10-12 15:21:08,342 - Reply sent to ('127.0.0.1', 56480)
+2024-10-12 15:21:08,342 - New connection from ('127.0.0.1', 56492)
+2024-10-12 15:21:08,342 - Message received from ('127.0.0.1', 56487): Hello from client 13!
+2024-10-12 15:21:08,343 - Accepted connection from ('127.0.0.1', 56501) on port 9993
+2024-10-12 15:21:08,343 - New connection from ('127.0.0.1', 56495)
+2024-10-12 15:21:08,343 - Connection closed with ('127.0.0.1', 56475)
+2024-10-12 15:21:08,343 - Reply sent to ('127.0.0.1', 56483)
+2024-10-12 15:21:08,343 - Accepted connection from ('127.0.0.1', 56504) on port 9991
+2024-10-12 15:21:08,343 - Message received from ('127.0.0.1', 56490): Hello from client 14!
+2024-10-12 15:21:08,343 - Connection closed with ('127.0.0.1', 56478)
+2024-10-12 15:21:08,344 - New connection from ('127.0.0.1', 56498)
+2024-10-12 15:21:08,344 - Accepted connection from ('127.0.0.1', 56507) on port 9992
+2024-10-12 15:21:08,344 - Reply sent to ('127.0.0.1', 56485)
+2024-10-12 15:21:08,344 - Connection closed with ('127.0.0.1', 56480)
+2024-10-12 15:21:08,344 - Message received from ('127.0.0.1', 56492): Hello from client 15!
+2024-10-12 15:21:08,344 - Reply sent to ('127.0.0.1', 56487)
+2024-10-12 15:21:08,345 - New connection from ('127.0.0.1', 56501)
+2024-10-12 15:21:08,345 - Message received from ('127.0.0.1', 56495): Hello from client 16!
+2024-10-12 15:21:08,345 - Accepted connection from ('127.0.0.1', 56510) on port 9993
+2024-10-12 15:21:08,345 - New connection from ('127.0.0.1', 56504)
+2024-10-12 15:21:08,345 - Connection closed with ('127.0.0.1', 56483)
+2024-10-12 15:21:08,346 - Reply sent to ('127.0.0.1', 56490)
+2024-10-12 15:21:08,346 - Accepted connection from ('127.0.0.1', 56512) on port 9991
+2024-10-12 15:21:08,346 - Message received from ('127.0.0.1', 56498): Hello from client 17!
+2024-10-12 15:21:08,346 - New connection from ('127.0.0.1', 56507)
+2024-10-12 15:21:08,346 - Connection closed with ('127.0.0.1', 56485)
+2024-10-12 15:21:08,346 - Accepted connection from ('127.0.0.1', 56514) on port 9992
+2024-10-12 15:21:08,346 - Reply sent to ('127.0.0.1', 56492)
+2024-10-12 15:21:08,347 - Connection closed with ('127.0.0.1', 56487)
+2024-10-12 15:21:08,347 - Message received from ('127.0.0.1', 56501): Hello from client 18!
+2024-10-12 15:21:08,347 - Reply sent to ('127.0.0.1', 56495)
+2024-10-12 15:21:08,347 - New connection from ('127.0.0.1', 56510)
+2024-10-12 15:21:08,347 - Message received from ('127.0.0.1', 56504): Hello from client 19!
+2024-10-12 15:21:08,347 - Accepted connection from ('127.0.0.1', 56517) on port 9993
+2024-10-12 15:21:08,348 - New connection from ('127.0.0.1', 56512)
+2024-10-12 15:21:08,348 - Connection closed with ('127.0.0.1', 56490)
+2024-10-12 15:21:08,348 - Accepted connection from ('127.0.0.1', 56520) on port 9991
+2024-10-12 15:21:08,348 - Reply sent to ('127.0.0.1', 56498)
+2024-10-12 15:21:08,348 - Message received from ('127.0.0.1', 56507): Hello from client 20!
+2024-10-12 15:21:08,348 - New connection from ('127.0.0.1', 56514)
+2024-10-12 15:21:08,348 - Connection closed with ('127.0.0.1', 56492)
+2024-10-12 15:21:08,349 - Accepted connection from ('127.0.0.1', 56523) on port 9992
+2024-10-12 15:21:08,349 - Reply sent to ('127.0.0.1', 56501)
+2024-10-12 15:21:08,349 - Connection closed with ('127.0.0.1', 56495)
+2024-10-12 15:21:08,349 - Message received from ('127.0.0.1', 56510): Hello from client 21!
+2024-10-12 15:21:08,349 - Reply sent to ('127.0.0.1', 56504)
+2024-10-12 15:21:08,349 - Message received from ('127.0.0.1', 56512): Hello from client 22!
+2024-10-12 15:21:08,350 - New connection from ('127.0.0.1', 56517)
+2024-10-12 15:21:08,350 - Accepted connection from ('127.0.0.1', 56526) on port 9993
+2024-10-12 15:21:08,350 - New connection from ('127.0.0.1', 56520)
+2024-10-12 15:21:08,350 - Accepted connection from ('127.0.0.1', 56529) on port 9991
+2024-10-12 15:21:08,350 - Connection closed with ('127.0.0.1', 56498)
+2024-10-12 15:21:08,350 - Reply sent to ('127.0.0.1', 56507)
+2024-10-12 15:21:08,351 - Message received from ('127.0.0.1', 56514): Hello from client 23!
+2024-10-12 15:21:08,351 - New connection from ('127.0.0.1', 56523)
+2024-10-12 15:21:08,351 - Accepted connection from ('127.0.0.1', 56532) on port 9992
+2024-10-12 15:21:08,351 - Connection closed with ('127.0.0.1', 56501)
+2024-10-12 15:21:08,351 - Reply sent to ('127.0.0.1', 56510)
+2024-10-12 15:21:08,351 - Connection closed with ('127.0.0.1', 56504)
+2024-10-12 15:21:08,351 - Reply sent to ('127.0.0.1', 56512)
+2024-10-12 15:21:08,353 - Message received from ('127.0.0.1', 56517): Hello from client 24!
+2024-10-12 15:21:08,353 - New connection from ('127.0.0.1', 56526)
+2024-10-12 15:21:08,353 - Message received from ('127.0.0.1', 56520): Hello from client 25!
+2024-10-12 15:21:08,353 - Accepted connection from ('127.0.0.1', 56534) on port 9993
+2024-10-12 15:21:08,353 - New connection from ('127.0.0.1', 56529)
+2024-10-12 15:21:08,354 - Accepted connection from ('127.0.0.1', 56537) on port 9991
+2024-10-12 15:21:08,354 - Connection closed with ('127.0.0.1', 56507)
+2024-10-12 15:21:08,354 - Reply sent to ('127.0.0.1', 56514)
+2024-10-12 15:21:08,354 - Message received from ('127.0.0.1', 56523): Hello from client 26!
+2024-10-12 15:21:08,354 - New connection from ('127.0.0.1', 56532)
+2024-10-12 15:21:08,354 - Accepted connection from ('127.0.0.1', 56540) on port 9992
+2024-10-12 15:21:08,354 - Connection closed with ('127.0.0.1', 56510)
+2024-10-12 15:21:08,355 - Connection closed with ('127.0.0.1', 56512)
+2024-10-12 15:21:08,355 - Reply sent to ('127.0.0.1', 56517)
+2024-10-12 15:21:08,355 - Message received from ('127.0.0.1', 56526): Hello from client 27!
+2024-10-12 15:21:08,355 - Reply sent to ('127.0.0.1', 56520)
+2024-10-12 15:21:08,355 - New connection from ('127.0.0.1', 56534)
+2024-10-12 15:21:08,355 - Message received from ('127.0.0.1', 56529): Hello from client 28!
+2024-10-12 15:21:08,355 - New connection from ('127.0.0.1', 56537)
+2024-10-12 15:21:08,355 - Accepted connection from ('127.0.0.1', 56542) on port 9993
+2024-10-12 15:21:08,355 - Accepted connection from ('127.0.0.1', 56545) on port 9991
+2024-10-12 15:21:08,356 - Reply sent to ('127.0.0.1', 56523)
+2024-10-12 15:21:08,356 - Connection closed with ('127.0.0.1', 56514)
+2024-10-12 15:21:08,356 - Message received from ('127.0.0.1', 56532): Hello from client 29!
+2024-10-12 15:21:08,356 - New connection from ('127.0.0.1', 56540)
+2024-10-12 15:21:08,356 - Accepted connection from ('127.0.0.1', 56555) on port 9992
+2024-10-12 15:21:08,356 - Connection closed with ('127.0.0.1', 56517)
+2024-10-12 15:21:08,357 - Reply sent to ('127.0.0.1', 56526)
+2024-10-12 15:21:08,357 - Connection closed with ('127.0.0.1', 56520)
+2024-10-12 15:21:08,357 - Message received from ('127.0.0.1', 56534): Hello from client 30!
+2024-10-12 15:21:08,357 - Reply sent to ('127.0.0.1', 56529)
+2024-10-12 15:21:08,358 - Message received from ('127.0.0.1', 56537): Hello from client 31!
+2024-10-12 15:21:08,358 - New connection from ('127.0.0.1', 56545)
+2024-10-12 15:21:08,358 - New connection from ('127.0.0.1', 56542)
+2024-10-12 15:21:08,358 - Connection closed with ('127.0.0.1', 56523)
+2024-10-12 15:21:08,358 - Accepted connection from ('127.0.0.1', 56560) on port 9991
+2024-10-12 15:21:08,358 - Accepted connection from ('127.0.0.1', 56556) on port 9993
+2024-10-12 15:21:08,358 - Reply sent to ('127.0.0.1', 56532)
+2024-10-12 15:21:08,359 - Message received from ('127.0.0.1', 56540): Hello from client 32!
+2024-10-12 15:21:08,359 - New connection from ('127.0.0.1', 56555)
+2024-10-12 15:21:08,359 - Accepted connection from ('127.0.0.1', 56561) on port 9992
+2024-10-12 15:21:08,359 - Connection closed with ('127.0.0.1', 56526)
+2024-10-12 15:21:08,359 - Reply sent to ('127.0.0.1', 56534)
+2024-10-12 15:21:08,359 - Connection closed with ('127.0.0.1', 56529)
+2024-10-12 15:21:08,359 - Reply sent to ('127.0.0.1', 56537)
+2024-10-12 15:21:08,359 - Message received from ('127.0.0.1', 56545): Hello from client 34!
+2024-10-12 15:21:08,359 - Message received from ('127.0.0.1', 56542): Hello from client 33!
+2024-10-12 15:21:08,360 - New connection from ('127.0.0.1', 56560)
+2024-10-12 15:21:08,360 - Accepted connection from ('127.0.0.1', 56566) on port 9991
+2024-10-12 15:21:08,360 - New connection from ('127.0.0.1', 56556)
+2024-10-12 15:21:08,360 - Connection closed with ('127.0.0.1', 56532)
+2024-10-12 15:21:08,360 - Reply sent to ('127.0.0.1', 56540)
+2024-10-12 15:21:08,360 - Accepted connection from ('127.0.0.1', 56565) on port 9993
+2024-10-12 15:21:08,360 - Message received from ('127.0.0.1', 56555): Hello from client 38!
+2024-10-12 15:21:08,360 - New connection from ('127.0.0.1', 56561)
+2024-10-12 15:21:08,360 - Accepted connection from ('127.0.0.1', 56567) on port 9992
+2024-10-12 15:21:08,360 - Connection closed with ('127.0.0.1', 56534)
+2024-10-12 15:21:08,362 - Connection closed with ('127.0.0.1', 56537)
+2024-10-12 15:21:08,362 - Reply sent to ('127.0.0.1', 56545)
+2024-10-12 15:21:08,362 - Reply sent to ('127.0.0.1', 56542)
+2024-10-12 15:21:08,362 - Message received from ('127.0.0.1', 56560): Hello from client 43!
+2024-10-12 15:21:08,362 - New connection from ('127.0.0.1', 56566)
+2024-10-12 15:21:08,362 - Message received from ('127.0.0.1', 56556): Hello from client 39!
+2024-10-12 15:21:08,362 - Accepted connection from ('127.0.0.1', 56572) on port 9991
+2024-10-12 15:21:08,363 - Connection closed with ('127.0.0.1', 56540)
+2024-10-12 15:21:08,363 - New connection from ('127.0.0.1', 56565)
+2024-10-12 15:21:08,363 - Reply sent to ('127.0.0.1', 56555)
+2024-10-12 15:21:08,363 - Accepted connection from ('127.0.0.1', 56571) on port 9993
+2024-10-12 15:21:08,363 - Message received from ('127.0.0.1', 56561): Hello from client 44!
+2024-10-12 15:21:08,363 - New connection from ('127.0.0.1', 56567)
+2024-10-12 15:21:08,363 - Accepted connection from ('127.0.0.1', 56576) on port 9992
+2024-10-12 15:21:08,364 - Connection closed with ('127.0.0.1', 56545)
+2024-10-12 15:21:08,364 - Connection closed with ('127.0.0.1', 56542)
+2024-10-12 15:21:08,364 - Reply sent to ('127.0.0.1', 56560)
+2024-10-12 15:21:08,364 - Message received from ('127.0.0.1', 56566): Hello from client 49!
+2024-10-12 15:21:08,364 - Reply sent to ('127.0.0.1', 56556)
+2024-10-12 15:21:08,364 - New connection from ('127.0.0.1', 56572)
+2024-10-12 15:21:08,364 - Accepted connection from ('127.0.0.1', 56581) on port 9991
+2024-10-12 15:21:08,364 - Message received from ('127.0.0.1', 56565): Hello from client 48!
+2024-10-12 15:21:08,364 - New connection from ('127.0.0.1', 56571)
+2024-10-12 15:21:08,366 - Connection closed with ('127.0.0.1', 56555)
+2024-10-12 15:21:08,366 - Reply sent to ('127.0.0.1', 56561)
+2024-10-12 15:21:08,366 - Accepted connection from ('127.0.0.1', 56577) on port 9993
+2024-10-12 15:21:08,366 - Message received from ('127.0.0.1', 56567): Hello from client 50!
+2024-10-12 15:21:08,366 - New connection from ('127.0.0.1', 56576)
+2024-10-12 15:21:08,366 - Accepted connection from ('127.0.0.1', 56582) on port 9992
+2024-10-12 15:21:08,366 - Connection closed with ('127.0.0.1', 56560)
+2024-10-12 15:21:08,366 - Reply sent to ('127.0.0.1', 56566)
+2024-10-12 15:21:08,366 - Connection closed with ('127.0.0.1', 56556)
+2024-10-12 15:21:08,366 - Message received from ('127.0.0.1', 56572): Hello from client 55!
+2024-10-12 15:21:08,367 - New connection from ('127.0.0.1', 56581)
+2024-10-12 15:21:08,367 - Reply sent to ('127.0.0.1', 56565)
+2024-10-12 15:21:08,367 - Message received from ('127.0.0.1', 56571): Hello from client 54!
+2024-10-12 15:21:08,367 - Accepted connection from ('127.0.0.1', 56587) on port 9991
+2024-10-12 15:21:08,367 - Connection closed with ('127.0.0.1', 56561)
+2024-10-12 15:21:08,367 - New connection from ('127.0.0.1', 56577)
+2024-10-12 15:21:08,367 - Reply sent to ('127.0.0.1', 56567)
+2024-10-12 15:21:08,367 - Message received from ('127.0.0.1', 56576): Hello from client 59!
+2024-10-12 15:21:08,369 - Accepted connection from ('127.0.0.1', 56586) on port 9993
+2024-10-12 15:21:08,369 - New connection from ('127.0.0.1', 56582)
+2024-10-12 15:21:08,369 - Accepted connection from ('127.0.0.1', 56588) on port 9992
+2024-10-12 15:21:08,369 - Connection closed with ('127.0.0.1', 56566)
+2024-10-12 15:21:08,369 - Reply sent to ('127.0.0.1', 56572)
+2024-10-12 15:21:08,369 - Message received from ('127.0.0.1', 56581): Hello from client 64!
+2024-10-12 15:21:08,369 - Reply sent to ('127.0.0.1', 56571)
+2024-10-12 15:21:08,369 - Connection closed with ('127.0.0.1', 56565)
+2024-10-12 15:21:08,370 - New connection from ('127.0.0.1', 56587)
+2024-10-12 15:21:08,370 - Accepted connection from ('127.0.0.1', 56593) on port 9991
+2024-10-12 15:21:08,370 - Message received from ('127.0.0.1', 56577): Hello from client 60!
+2024-10-12 15:21:08,370 - Connection closed with ('127.0.0.1', 56567)
+2024-10-12 15:21:08,370 - Reply sent to ('127.0.0.1', 56576)
+2024-10-12 15:21:08,370 - New connection from ('127.0.0.1', 56586)
+2024-10-12 15:21:08,370 - Message received from ('127.0.0.1', 56582): Hello from client 65!
+2024-10-12 15:21:08,371 - Accepted connection from ('127.0.0.1', 56592) on port 9993
+2024-10-12 15:21:08,371 - New connection from ('127.0.0.1', 56588)
+2024-10-12 15:21:08,371 - Accepted connection from ('127.0.0.1', 56594) on port 9992
+2024-10-12 15:21:08,371 - Connection closed with ('127.0.0.1', 56572)
+2024-10-12 15:21:08,371 - Reply sent to ('127.0.0.1', 56581)
+2024-10-12 15:21:08,371 - Connection closed with ('127.0.0.1', 56571)
+2024-10-12 15:21:08,371 - Message received from ('127.0.0.1', 56587): Hello from client 70!
+2024-10-12 15:21:08,371 - Reply sent to ('127.0.0.1', 56577)
+2024-10-12 15:21:08,371 - New connection from ('127.0.0.1', 56593)
+2024-10-12 15:21:08,373 - Accepted connection from ('127.0.0.1', 56599) on port 9991
+2024-10-12 15:21:08,373 - Message received from ('127.0.0.1', 56586): Hello from client 69!
+2024-10-12 15:21:08,373 - Connection closed with ('127.0.0.1', 56576)
+2024-10-12 15:21:08,373 - Reply sent to ('127.0.0.1', 56582)
+2024-10-12 15:21:08,373 - New connection from ('127.0.0.1', 56592)
+2024-10-12 15:21:08,373 - Message received from ('127.0.0.1', 56588): Hello from client 71!
+2024-10-12 15:21:08,374 - New connection from ('127.0.0.1', 56594)
+2024-10-12 15:21:08,374 - Accepted connection from ('127.0.0.1', 56601) on port 9993
+2024-10-12 15:21:08,374 - Accepted connection from ('127.0.0.1', 56603) on port 9992
+2024-10-12 15:21:08,375 - Connection closed with ('127.0.0.1', 56581)
+2024-10-12 15:21:08,375 - Reply sent to ('127.0.0.1', 56587)
+2024-10-12 15:21:08,375 - Connection closed with ('127.0.0.1', 56577)
+2024-10-12 15:21:08,375 - Message received from ('127.0.0.1', 56593): Hello from client 76!
+2024-10-12 15:21:08,375 - Reply sent to ('127.0.0.1', 56586)
+2024-10-12 15:21:08,375 - New connection from ('127.0.0.1', 56599)
+2024-10-12 15:21:08,375 - Accepted connection from ('127.0.0.1', 56605) on port 9991
+2024-10-12 15:21:08,375 - Connection closed with ('127.0.0.1', 56582)
+2024-10-12 15:21:08,376 - Message received from ('127.0.0.1', 56592): Hello from client 75!
+2024-10-12 15:21:08,376 - Reply sent to ('127.0.0.1', 56588)
+2024-10-12 15:21:08,376 - Message received from ('127.0.0.1', 56594): Hello from client 77!
+2024-10-12 15:21:08,376 - New connection from ('127.0.0.1', 56601)
+2024-10-12 15:21:08,376 - New connection from ('127.0.0.1', 56603)
+2024-10-12 15:21:08,376 - Accepted connection from ('127.0.0.1', 56607) on port 9993
+2024-10-12 15:21:08,377 - Accepted connection from ('127.0.0.1', 56609) on port 9992
+2024-10-12 15:21:08,377 - Connection closed with ('127.0.0.1', 56587)
+2024-10-12 15:21:08,377 - Reply sent to ('127.0.0.1', 56593)
+2024-10-12 15:21:08,377 - Message received from ('127.0.0.1', 56599): Hello from client 82!
+2024-10-12 15:21:08,377 - Connection closed with ('127.0.0.1', 56586)
+2024-10-12 15:21:08,377 - New connection from ('127.0.0.1', 56605)
+2024-10-12 15:21:08,378 - Accepted connection from ('127.0.0.1', 56611) on port 9991
+2024-10-12 15:21:08,378 - Reply sent to ('127.0.0.1', 56592)
+2024-10-12 15:21:08,378 - Reply sent to ('127.0.0.1', 56594)
+2024-10-12 15:21:08,378 - Connection closed with ('127.0.0.1', 56588)
+2024-10-12 15:21:08,378 - Message received from ('127.0.0.1', 56601): Hello from client 84!
+2024-10-12 15:21:08,378 - Message received from ('127.0.0.1', 56603): Hello from client 86!
+2024-10-12 15:21:08,378 - New connection from ('127.0.0.1', 56607)
+2024-10-12 15:21:08,378 - Accepted connection from ('127.0.0.1', 56613) on port 9993
+2024-10-12 15:21:08,378 - New connection from ('127.0.0.1', 56609)
+2024-10-12 15:21:08,380 - Accepted connection from ('127.0.0.1', 56615) on port 9992
+2024-10-12 15:21:08,380 - Connection closed with ('127.0.0.1', 56593)
+2024-10-12 15:21:08,380 - Reply sent to ('127.0.0.1', 56599)
+2024-10-12 15:21:08,380 - Message received from ('127.0.0.1', 56605): Hello from client 88!
+2024-10-12 15:21:08,380 - New connection from ('127.0.0.1', 56611)
+2024-10-12 15:21:08,380 - Accepted connection from ('127.0.0.1', 56617) on port 9991
+2024-10-12 15:21:08,380 - Connection closed with ('127.0.0.1', 56592)
+2024-10-12 15:21:08,381 - Connection closed with ('127.0.0.1', 56594)
+2024-10-12 15:21:08,381 - Reply sent to ('127.0.0.1', 56601)
+2024-10-12 15:21:08,381 - Reply sent to ('127.0.0.1', 56603)
+2024-10-12 15:21:08,381 - Message received from ('127.0.0.1', 56607): Hello from client 90!
+2024-10-12 15:21:08,381 - New connection from ('127.0.0.1', 56613)
+2024-10-12 15:21:08,381 - Message received from ('127.0.0.1', 56609): Hello from client 92!
+2024-10-12 15:21:08,381 - New connection from ('127.0.0.1', 56615)
+2024-10-12 15:21:08,383 - Reply sent to ('127.0.0.1', 56605)
+2024-10-12 15:21:08,383 - Connection closed with ('127.0.0.1', 56599)
+2024-10-12 15:21:08,383 - Message received from ('127.0.0.1', 56611): Hello from client 94!
+2024-10-12 15:21:08,383 - New connection from ('127.0.0.1', 56617)
+2024-10-12 15:21:08,383 - Connection closed with ('127.0.0.1', 56601)
+2024-10-12 15:21:08,383 - Reply sent to ('127.0.0.1', 56607)
+2024-10-12 15:21:08,384 - Connection closed with ('127.0.0.1', 56603)
+2024-10-12 15:21:08,384 - Message received from ('127.0.0.1', 56613): Hello from client 96!
+2024-10-12 15:21:08,384 - Reply sent to ('127.0.0.1', 56609)
+2024-10-12 15:21:08,384 - Message received from ('127.0.0.1', 56615): Hello from client 98!
+2024-10-12 15:21:08,384 - Connection closed with ('127.0.0.1', 56605)
+2024-10-12 15:21:08,384 - Reply sent to ('127.0.0.1', 56611)
+2024-10-12 15:21:08,384 - Message received from ('127.0.0.1', 56617): Hello from client 100!
+2024-10-12 15:21:08,385 - Connection closed with ('127.0.0.1', 56607)
+2024-10-12 15:21:08,385 - Reply sent to ('127.0.0.1', 56613)
+2024-10-12 15:21:08,385 - Connection closed with ('127.0.0.1', 56609)
+2024-10-12 15:21:08,385 - Reply sent to ('127.0.0.1', 56615)
+2024-10-12 15:21:08,386 - Connection closed with ('127.0.0.1', 56611)
+2024-10-12 15:21:08,386 - Reply sent to ('127.0.0.1', 56617)
+2024-10-12 15:21:08,386 - Connection closed with ('127.0.0.1', 56613)
+2024-10-12 15:21:08,386 - Connection closed with ('127.0.0.1', 56615)
+2024-10-12 15:21:08,387 - Connection closed with ('127.0.0.1', 56617)
+2024-10-12 15:21:08,856 - Accepted connection from ('127.0.0.1', 56551) on port 9993
+2024-10-12 15:21:08,856 - Accepted connection from ('127.0.0.1', 56569) on port 9991
+2024-10-12 15:21:08,856 - Accepted connection from ('127.0.0.1', 56558) on port 9992
+2024-10-12 15:21:08,856 - New connection from ('127.0.0.1', 56569)
+2024-10-12 15:21:08,856 - New connection from ('127.0.0.1', 56551)
+2024-10-12 15:21:08,857 - Accepted connection from ('127.0.0.1', 56559) on port 9993
+2024-10-12 15:21:08,857 - Accepted connection from ('127.0.0.1', 56553) on port 9991
+2024-10-12 15:21:08,857 - New connection from ('127.0.0.1', 56558)
+2024-10-12 15:21:08,858 - Message received from ('127.0.0.1', 56569): Hello from client 52!
+2024-10-12 15:21:08,858 - Accepted connection from ('127.0.0.1', 56573) on port 9992
+2024-10-12 15:21:08,858 - Message received from ('127.0.0.1', 56551): Hello from client 36!
+2024-10-12 15:21:08,858 - New connection from ('127.0.0.1', 56559)
+2024-10-12 15:21:08,858 - Accepted connection from ('127.0.0.1', 56574) on port 9993
+2024-10-12 15:21:08,858 - New connection from ('127.0.0.1', 56553)
+2024-10-12 15:21:08,858 - Message received from ('127.0.0.1', 56558): Hello from client 41!
+2024-10-12 15:21:08,858 - Accepted connection from ('127.0.0.1', 56563) on port 9991
+2024-10-12 15:21:08,858 - Reply sent to ('127.0.0.1', 56569)
+2024-10-12 15:21:08,858 - Reply sent to ('127.0.0.1', 56551)
+2024-10-12 15:21:08,859 - New connection from ('127.0.0.1', 56573)
+2024-10-12 15:21:08,859 - Message received from ('127.0.0.1', 56559): Hello from client 42!
+2024-10-12 15:21:08,859 - Accepted connection from ('127.0.0.1', 56564) on port 9992
+2024-10-12 15:21:08,859 - New connection from ('127.0.0.1', 56574)
+2024-10-12 15:21:08,859 - Message received from ('127.0.0.1', 56553): Hello from client 37!
+2024-10-12 15:21:08,859 - Accepted connection from ('127.0.0.1', 56568) on port 9993
+2024-10-12 15:21:08,859 - Reply sent to ('127.0.0.1', 56558)
+2024-10-12 15:21:08,859 - New connection from ('127.0.0.1', 56563)
+2024-10-12 15:21:08,859 - Accepted connection from ('127.0.0.1', 56557) on port 9991
+2024-10-12 15:21:08,860 - Connection closed with ('127.0.0.1', 56569)
+2024-10-12 15:21:08,860 - Connection closed with ('127.0.0.1', 56551)
+2024-10-12 15:21:08,860 - Message received from ('127.0.0.1', 56573): Hello from client 56!
+2024-10-12 15:21:08,860 - Reply sent to ('127.0.0.1', 56559)
+2024-10-12 15:21:08,860 - New connection from ('127.0.0.1', 56564)
+2024-10-12 15:21:08,860 - Message received from ('127.0.0.1', 56574): Hello from client 57!
+2024-10-12 15:21:08,860 - Accepted connection from ('127.0.0.1', 56548) on port 9992
+2024-10-12 15:21:08,860 - Reply sent to ('127.0.0.1', 56553)
+2024-10-12 15:21:08,861 - New connection from ('127.0.0.1', 56568)
+2024-10-12 15:21:08,861 - Accepted connection from ('127.0.0.1', 56580) on port 9993
+2024-10-12 15:21:08,861 - Message received from ('127.0.0.1', 56563): Hello from client 46!
+2024-10-12 15:21:08,861 - Connection closed with ('127.0.0.1', 56558)
+2024-10-12 15:21:08,861 - New connection from ('127.0.0.1', 56557)
+2024-10-12 15:21:08,861 - Accepted connection from ('127.0.0.1', 56575) on port 9991
+2024-10-12 15:21:08,862 - Reply sent to ('127.0.0.1', 56573)
+2024-10-12 15:21:08,862 - Message received from ('127.0.0.1', 56564): Hello from client 47!
+2024-10-12 15:21:08,862 - Connection closed with ('127.0.0.1', 56559)
+2024-10-12 15:21:08,862 - Reply sent to ('127.0.0.1', 56574)
+2024-10-12 15:21:08,862 - New connection from ('127.0.0.1', 56548)
+2024-10-12 15:21:08,862 - Accepted connection from ('127.0.0.1', 56570) on port 9992
+2024-10-12 15:21:08,862 - Connection closed with ('127.0.0.1', 56553)
+2024-10-12 15:21:08,862 - Message received from ('127.0.0.1', 56568): Hello from client 51!
+2024-10-12 15:21:08,864 - New connection from ('127.0.0.1', 56580)
+2024-10-12 15:21:08,864 - Reply sent to ('127.0.0.1', 56563)
+2024-10-12 15:21:08,864 - Accepted connection from ('127.0.0.1', 56562) on port 9993
+2024-10-12 15:21:08,864 - Message received from ('127.0.0.1', 56557): Hello from client 40!
+2024-10-12 15:21:08,865 - New connection from ('127.0.0.1', 56575)
+2024-10-12 15:21:08,865 - Accepted connection from ('127.0.0.1', 56578) on port 9991
+2024-10-12 15:21:08,865 - Reply sent to ('127.0.0.1', 56564)
+2024-10-12 15:21:08,865 - Connection closed with ('127.0.0.1', 56573)
+2024-10-12 15:21:08,865 - Connection closed with ('127.0.0.1', 56574)
+2024-10-12 15:21:08,865 - Message received from ('127.0.0.1', 56548): Hello from client 35!
+2024-10-12 15:21:08,866 - New connection from ('127.0.0.1', 56570)
+2024-10-12 15:21:08,866 - Accepted connection from ('127.0.0.1', 56579) on port 9992
+2024-10-12 15:21:08,866 - Reply sent to ('127.0.0.1', 56568)
+2024-10-12 15:21:08,866 - Message received from ('127.0.0.1', 56580): Hello from client 63!
+2024-10-12 15:21:08,866 - Connection closed with ('127.0.0.1', 56563)
+2024-10-12 15:21:08,866 - New connection from ('127.0.0.1', 56562)
+2024-10-12 15:21:08,866 - Reply sent to ('127.0.0.1', 56557)
+2024-10-12 15:21:08,867 - Message received from ('127.0.0.1', 56575): Hello from client 58!
+2024-10-12 15:21:08,867 - New connection from ('127.0.0.1', 56578)
+2024-10-12 15:21:08,867 - Connection closed with ('127.0.0.1', 56564)
+2024-10-12 15:21:08,867 - Reply sent to ('127.0.0.1', 56548)
+2024-10-12 15:21:08,867 - Message received from ('127.0.0.1', 56570): Hello from client 53!
+2024-10-12 15:21:08,868 - New connection from ('127.0.0.1', 56579)
+2024-10-12 15:21:08,868 - Reply sent to ('127.0.0.1', 56580)
+2024-10-12 15:21:08,868 - Connection closed with ('127.0.0.1', 56568)
+2024-10-12 15:21:08,868 - Accepted connection from ('127.0.0.1', 56585) on port 9992
+2024-10-12 15:21:08,868 - Message received from ('127.0.0.1', 56562): Hello from client 45!
+2024-10-12 15:21:08,869 - Reply sent to ('127.0.0.1', 56575)
+2024-10-12 15:21:08,869 - Connection closed with ('127.0.0.1', 56557)
+2024-10-12 15:21:08,869 - Message received from ('127.0.0.1', 56578): Hello from client 61!
+2024-10-12 15:21:08,869 - Connection closed with ('127.0.0.1', 56548)
+2024-10-12 15:21:08,869 - Reply sent to ('127.0.0.1', 56570)
+2024-10-12 15:21:08,869 - Message received from ('127.0.0.1', 56579): Hello from client 62!
+2024-10-12 15:21:08,869 - Connection closed with ('127.0.0.1', 56580)
+2024-10-12 15:21:08,870 - New connection from ('127.0.0.1', 56585)
+2024-10-12 15:21:08,870 - Connection closed with ('127.0.0.1', 56575)
+2024-10-12 15:21:08,870 - Reply sent to ('127.0.0.1', 56562)
+2024-10-12 15:21:08,870 - Reply sent to ('127.0.0.1', 56578)
+2024-10-12 15:21:08,871 - Reply sent to ('127.0.0.1', 56579)
+2024-10-12 15:21:08,871 - Accepted connection from ('127.0.0.1', 56602) on port 9991
+2024-10-12 15:21:08,871 - Accepted connection from ('127.0.0.1', 56598) on port 9993
+2024-10-12 15:21:08,871 - Accepted connection from ('127.0.0.1', 56600) on port 9992
+2024-10-12 15:21:08,871 - Message received from ('127.0.0.1', 56585): Hello from client 68!
+2024-10-12 15:21:08,871 - Connection closed with ('127.0.0.1', 56570)
+2024-10-12 15:21:08,871 - Connection closed with ('127.0.0.1', 56562)
+2024-10-12 15:21:08,871 - Connection closed with ('127.0.0.1', 56578)
+2024-10-12 15:21:08,871 - Connection closed with ('127.0.0.1', 56579)
+2024-10-12 15:21:08,872 - New connection from ('127.0.0.1', 56602)
+2024-10-12 15:21:08,872 - Accepted connection from ('127.0.0.1', 56614) on port 9991
+2024-10-12 15:21:08,872 - New connection from ('127.0.0.1', 56598)
+2024-10-12 15:21:08,872 - New connection from ('127.0.0.1', 56600)
+2024-10-12 15:21:08,872 - Accepted connection from ('127.0.0.1', 56583) on port 9993
+2024-10-12 15:21:08,872 - Reply sent to ('127.0.0.1', 56585)
+2024-10-12 15:21:08,872 - Accepted connection from ('127.0.0.1', 56591) on port 9992
+2024-10-12 15:21:08,874 - Message received from ('127.0.0.1', 56602): Hello from client 85!
+2024-10-12 15:21:08,874 - New connection from ('127.0.0.1', 56614)
+2024-10-12 15:21:08,874 - Message received from ('127.0.0.1', 56598): Hello from client 81!
+2024-10-12 15:21:08,874 - Accepted connection from ('127.0.0.1', 56596) on port 9991
+2024-10-12 15:21:08,874 - Message received from ('127.0.0.1', 56600): Hello from client 83!
+2024-10-12 15:21:08,875 - New connection from ('127.0.0.1', 56583)
+2024-10-12 15:21:08,875 - Accepted connection from ('127.0.0.1', 56604) on port 9993
+2024-10-12 15:21:08,875 - Connection closed with ('127.0.0.1', 56585)
+2024-10-12 15:21:08,875 - New connection from ('127.0.0.1', 56591)
+2024-10-12 15:21:08,875 - Reply sent to ('127.0.0.1', 56602)
+2024-10-12 15:21:08,875 - Accepted connection from ('127.0.0.1', 56597) on port 9992
+2024-10-12 15:21:08,875 - Message received from ('127.0.0.1', 56614): Hello from client 97!
+2024-10-12 15:21:08,875 - Reply sent to ('127.0.0.1', 56598)
+2024-10-12 15:21:08,876 - New connection from ('127.0.0.1', 56596)
+2024-10-12 15:21:08,876 - Reply sent to ('127.0.0.1', 56600)
+2024-10-12 15:21:08,876 - Accepted connection from ('127.0.0.1', 56590) on port 9991
+2024-10-12 15:21:08,876 - Message received from ('127.0.0.1', 56583): Hello from client 66!
+2024-10-12 15:21:08,876 - New connection from ('127.0.0.1', 56604)
+2024-10-12 15:21:08,876 - Accepted connection from ('127.0.0.1', 56589) on port 9993
+2024-10-12 15:21:08,876 - Message received from ('127.0.0.1', 56591): Hello from client 74!
+2024-10-12 15:21:08,877 - New connection from ('127.0.0.1', 56597)
+2024-10-12 15:21:08,877 - Connection closed with ('127.0.0.1', 56602)
+2024-10-12 15:21:08,877 - Reply sent to ('127.0.0.1', 56614)
+2024-10-12 15:21:08,877 - Accepted connection from ('127.0.0.1', 56606) on port 9992
+2024-10-12 15:21:08,877 - Message received from ('127.0.0.1', 56596): Hello from client 79!
+2024-10-12 15:21:08,877 - Connection closed with ('127.0.0.1', 56598)
+2024-10-12 15:21:08,877 - New connection from ('127.0.0.1', 56590)
+2024-10-12 15:21:08,877 - Connection closed with ('127.0.0.1', 56600)
+2024-10-12 15:21:08,878 - Accepted connection from ('127.0.0.1', 56608) on port 9991
+2024-10-12 15:21:08,878 - Reply sent to ('127.0.0.1', 56583)
+2024-10-12 15:21:08,878 - Message received from ('127.0.0.1', 56604): Hello from client 87!
+2024-10-12 15:21:08,879 - New connection from ('127.0.0.1', 56589)
+2024-10-12 15:21:08,879 - Accepted connection from ('127.0.0.1', 56616) on port 9993
+2024-10-12 15:21:08,879 - Reply sent to ('127.0.0.1', 56591)
+2024-10-12 15:21:08,879 - Message received from ('127.0.0.1', 56597): Hello from client 80!
+2024-10-12 15:21:08,879 - Connection closed with ('127.0.0.1', 56614)
+2024-10-12 15:21:08,879 - New connection from ('127.0.0.1', 56606)
+2024-10-12 15:21:08,880 - Reply sent to ('127.0.0.1', 56596)
+2024-10-12 15:21:08,880 - Accepted connection from ('127.0.0.1', 56612) on port 9992
+2024-10-12 15:21:08,880 - Message received from ('127.0.0.1', 56590): Hello from client 73!
+2024-10-12 15:21:08,880 - New connection from ('127.0.0.1', 56608)
+2024-10-12 15:21:08,881 - Connection closed with ('127.0.0.1', 56583)
+2024-10-12 15:21:08,881 - Reply sent to ('127.0.0.1', 56604)
+2024-10-12 15:21:08,881 - Message received from ('127.0.0.1', 56589): Hello from client 72!
+2024-10-12 15:21:08,881 - New connection from ('127.0.0.1', 56616)
+2024-10-12 15:21:08,881 - Connection closed with ('127.0.0.1', 56591)
+2024-10-12 15:21:08,881 - Reply sent to ('127.0.0.1', 56597)
+2024-10-12 15:21:08,881 - Accepted connection from ('127.0.0.1', 56595) on port 9993
+2024-10-12 15:21:08,882 - Message received from ('127.0.0.1', 56606): Hello from client 89!
+2024-10-12 15:21:08,882 - Connection closed with ('127.0.0.1', 56596)
+2024-10-12 15:21:08,882 - New connection from ('127.0.0.1', 56612)
+2024-10-12 15:21:08,882 - Reply sent to ('127.0.0.1', 56590)
+2024-10-12 15:21:08,883 - Message received from ('127.0.0.1', 56608): Hello from client 91!
+2024-10-12 15:21:08,883 - Connection closed with ('127.0.0.1', 56604)
+2024-10-12 15:21:08,883 - Reply sent to ('127.0.0.1', 56589)
+2024-10-12 15:21:08,883 - Message received from ('127.0.0.1', 56616): Hello from client 99!
+2024-10-12 15:21:08,883 - Connection closed with ('127.0.0.1', 56597)
+2024-10-12 15:21:08,883 - New connection from ('127.0.0.1', 56595)
+2024-10-12 15:21:08,884 - Reply sent to ('127.0.0.1', 56606)
+2024-10-12 15:21:08,884 - Message received from ('127.0.0.1', 56612): Hello from client 95!
+2024-10-12 15:21:08,884 - Connection closed with ('127.0.0.1', 56590)
+2024-10-12 15:21:08,884 - Reply sent to ('127.0.0.1', 56608)
+2024-10-12 15:21:08,884 - Connection closed with ('127.0.0.1', 56589)
+2024-10-12 15:21:08,884 - Reply sent to ('127.0.0.1', 56616)
+2024-10-12 15:21:08,885 - Message received from ('127.0.0.1', 56595): Hello from client 78!
+2024-10-12 15:21:08,885 - Connection closed with ('127.0.0.1', 56606)
+2024-10-12 15:21:08,885 - Reply sent to ('127.0.0.1', 56612)
+2024-10-12 15:21:08,885 - Connection closed with ('127.0.0.1', 56608)
+2024-10-12 15:21:08,885 - Connection closed with ('127.0.0.1', 56616)
+2024-10-12 15:21:08,885 - Reply sent to ('127.0.0.1', 56595)
+2024-10-12 15:21:08,886 - Connection closed with ('127.0.0.1', 56612)
+2024-10-12 15:21:08,886 - Connection closed with ('127.0.0.1', 56595)
+2024-10-12 15:21:09,357 - Accepted connection from ('127.0.0.1', 56584) on port 9991
+2024-10-12 15:21:09,359 - New connection from ('127.0.0.1', 56584)
+2024-10-12 15:21:09,359 - Message received from ('127.0.0.1', 56584): Hello from client 67!
+2024-10-12 15:21:09,359 - Reply sent to ('127.0.0.1', 56584)
+2024-10-12 15:21:09,359 - Connection closed with ('127.0.0.1', 56584)
+2024-10-12 15:21:09,373 - Accepted connection from ('127.0.0.1', 56610) on port 9993
+2024-10-12 15:21:09,373 - New connection from ('127.0.0.1', 56610)
+2024-10-12 15:21:09,373 - Message received from ('127.0.0.1', 56610): Hello from client 93!
+2024-10-12 15:21:09,374 - Reply sent to ('127.0.0.1', 56610)
+2024-10-12 15:21:09,374 - Connection closed with ('127.0.0.1', 56610)
+2024-10-12 15:23:11,231 - Accepted connection from ('127.0.0.1', 56642) on port 9992
+2024-10-12 15:23:11,231 - Accepted connection from ('127.0.0.1', 56645) on port 9993
+2024-10-12 15:23:11,231 - New connection from ('127.0.0.1', 56642)
+2024-10-12 15:23:11,231 - Accepted connection from ('127.0.0.1', 56647) on port 9991
+2024-10-12 15:23:11,231 - New connection from ('127.0.0.1', 56645)
+2024-10-12 15:23:11,231 - Accepted connection from ('127.0.0.1', 56650) on port 9992
+2024-10-12 15:23:11,231 - Message received from ('127.0.0.1', 56642): Hello from client 2!
+2024-10-12 15:23:11,232 - New connection from ('127.0.0.1', 56647)
+2024-10-12 15:23:11,232 - Message received from ('127.0.0.1', 56645): Hello from client 1!
+2024-10-12 15:23:11,232 - Accepted connection from ('127.0.0.1', 56653) on port 9993
+2024-10-12 15:23:11,232 - New connection from ('127.0.0.1', 56650)
+2024-10-12 15:23:11,232 - Accepted connection from ('127.0.0.1', 56655) on port 9991
+2024-10-12 15:23:11,232 - Reply sent to ('127.0.0.1', 56642)
+2024-10-12 15:23:11,232 - Message received from ('127.0.0.1', 56647): Hello from client 3!
+2024-10-12 15:23:11,232 - Accepted connection from ('127.0.0.1', 56658) on port 9992
+2024-10-12 15:23:11,232 - Reply sent to ('127.0.0.1', 56645)
+2024-10-12 15:23:11,234 - New connection from ('127.0.0.1', 56653)
+2024-10-12 15:23:11,234 - Message received from ('127.0.0.1', 56650): Hello from client 4!
+2024-10-12 15:23:11,234 - Accepted connection from ('127.0.0.1', 56660) on port 9993
+2024-10-12 15:23:11,234 - New connection from ('127.0.0.1', 56655)
+2024-10-12 15:23:11,234 - Connection closed with ('127.0.0.1', 56642)
+2024-10-12 15:23:11,234 - Reply sent to ('127.0.0.1', 56647)
+2024-10-12 15:23:11,234 - Accepted connection from ('127.0.0.1', 56663) on port 9991
+2024-10-12 15:23:11,234 - New connection from ('127.0.0.1', 56658)
+2024-10-12 15:23:11,235 - Connection closed with ('127.0.0.1', 56645)
+2024-10-12 15:23:11,235 - Message received from ('127.0.0.1', 56653): Hello from client 5!
+2024-10-12 15:23:11,235 - Accepted connection from ('127.0.0.1', 56666) on port 9992
+2024-10-12 15:23:11,235 - Reply sent to ('127.0.0.1', 56650)
+2024-10-12 15:23:11,235 - New connection from ('127.0.0.1', 56660)
+2024-10-12 15:23:11,235 - Message received from ('127.0.0.1', 56655): Hello from client 6!
+2024-10-12 15:23:11,235 - Accepted connection from ('127.0.0.1', 56668) on port 9993
+2024-10-12 15:23:11,235 - Connection closed with ('127.0.0.1', 56647)
+2024-10-12 15:23:11,235 - New connection from ('127.0.0.1', 56663)
+2024-10-12 15:23:11,237 - Accepted connection from ('127.0.0.1', 56671) on port 9991
+2024-10-12 15:23:11,237 - Message received from ('127.0.0.1', 56658): Hello from client 7!
+2024-10-12 15:23:11,237 - Reply sent to ('127.0.0.1', 56653)
+2024-10-12 15:23:11,237 - New connection from ('127.0.0.1', 56666)
+2024-10-12 15:23:11,237 - Accepted connection from ('127.0.0.1', 56674) on port 9992
+2024-10-12 15:23:11,237 - Message received from ('127.0.0.1', 56660): Hello from client 8!
+2024-10-12 15:23:11,237 - Connection closed with ('127.0.0.1', 56650)
+2024-10-12 15:23:11,237 - Reply sent to ('127.0.0.1', 56655)
+2024-10-12 15:23:11,238 - New connection from ('127.0.0.1', 56668)
+2024-10-12 15:23:11,238 - Accepted connection from ('127.0.0.1', 56677) on port 9993
+2024-10-12 15:23:11,238 - Message received from ('127.0.0.1', 56663): Hello from client 9!
+2024-10-12 15:23:11,238 - New connection from ('127.0.0.1', 56671)
+2024-10-12 15:23:11,238 - Reply sent to ('127.0.0.1', 56658)
+2024-10-12 15:23:11,238 - Accepted connection from ('127.0.0.1', 56679) on port 9991
+2024-10-12 15:23:11,238 - Connection closed with ('127.0.0.1', 56653)
+2024-10-12 15:23:11,238 - Message received from ('127.0.0.1', 56666): Hello from client 10!
+2024-10-12 15:23:11,239 - New connection from ('127.0.0.1', 56674)
+2024-10-12 15:23:11,239 - Reply sent to ('127.0.0.1', 56660)
+2024-10-12 15:23:11,239 - Accepted connection from ('127.0.0.1', 56682) on port 9992
+2024-10-12 15:23:11,239 - Message received from ('127.0.0.1', 56668): Hello from client 11!
+2024-10-12 15:23:11,239 - Connection closed with ('127.0.0.1', 56655)
+2024-10-12 15:23:11,239 - New connection from ('127.0.0.1', 56677)
+2024-10-12 15:23:11,239 - Reply sent to ('127.0.0.1', 56663)
+2024-10-12 15:23:11,239 - Accepted connection from ('127.0.0.1', 56685) on port 9993
+2024-10-12 15:23:11,239 - Message received from ('127.0.0.1', 56671): Hello from client 12!
+2024-10-12 15:23:11,240 - Connection closed with ('127.0.0.1', 56658)
+2024-10-12 15:23:11,240 - New connection from ('127.0.0.1', 56679)
+2024-10-12 15:23:11,240 - Accepted connection from ('127.0.0.1', 56687) on port 9991
+2024-10-12 15:23:11,240 - Reply sent to ('127.0.0.1', 56666)
+2024-10-12 15:23:11,240 - Message received from ('127.0.0.1', 56674): Hello from client 13!
+2024-10-12 15:23:11,240 - New connection from ('127.0.0.1', 56682)
+2024-10-12 15:23:11,240 - Connection closed with ('127.0.0.1', 56660)
+2024-10-12 15:23:11,240 - Reply sent to ('127.0.0.1', 56668)
+2024-10-12 15:23:11,242 - Accepted connection from ('127.0.0.1', 56691) on port 9992
+2024-10-12 15:23:11,242 - Message received from ('127.0.0.1', 56677): Hello from client 14!
+2024-10-12 15:23:11,242 - New connection from ('127.0.0.1', 56685)
+2024-10-12 15:23:11,242 - Connection closed with ('127.0.0.1', 56663)
+2024-10-12 15:23:11,242 - Reply sent to ('127.0.0.1', 56671)
+2024-10-12 15:23:11,242 - Accepted connection from ('127.0.0.1', 56694) on port 9993
+2024-10-12 15:23:11,242 - Message received from ('127.0.0.1', 56679): Hello from client 15!
+2024-10-12 15:23:11,242 - New connection from ('127.0.0.1', 56687)
+2024-10-12 15:23:11,243 - Accepted connection from ('127.0.0.1', 56697) on port 9991
+2024-10-12 15:23:11,243 - Connection closed with ('127.0.0.1', 56666)
+2024-10-12 15:23:11,243 - Reply sent to ('127.0.0.1', 56674)
+2024-10-12 15:23:11,243 - Message received from ('127.0.0.1', 56682): Hello from client 16!
+2024-10-12 15:23:11,243 - Connection closed with ('127.0.0.1', 56668)
+2024-10-12 15:23:11,243 - New connection from ('127.0.0.1', 56691)
+2024-10-12 15:23:11,243 - Reply sent to ('127.0.0.1', 56677)
+2024-10-12 15:23:11,243 - Accepted connection from ('127.0.0.1', 56700) on port 9992
+2024-10-12 15:23:11,243 - Message received from ('127.0.0.1', 56685): Hello from client 17!
+2024-10-12 15:23:11,245 - New connection from ('127.0.0.1', 56694)
+2024-10-12 15:23:11,246 - Message received from ('127.0.0.1', 56694): Hello from client 20!
+2024-10-12 15:23:11,245 - Accepted connection from ('127.0.0.1', 56702) on port 9993
+2024-10-12 15:23:11,245 - Reply sent to ('127.0.0.1', 56679)
+2024-10-12 15:23:11,245 - Message received from ('127.0.0.1', 56687): Hello from client 18!
+2024-10-12 15:23:11,246 - New connection from ('127.0.0.1', 56697)
+2024-10-12 15:23:11,246 - Accepted connection from ('127.0.0.1', 56705) on port 9991
+2024-10-12 15:23:11,246 - Connection closed with ('127.0.0.1', 56674)
+2024-10-12 15:23:11,246 - Reply sent to ('127.0.0.1', 56682)
+2024-10-12 15:23:11,246 - Message received from ('127.0.0.1', 56691): Hello from client 19!
+2024-10-12 15:23:11,246 - Connection closed with ('127.0.0.1', 56677)
+2024-10-12 15:23:11,246 - New connection from ('127.0.0.1', 56700)
+2024-10-12 15:23:11,246 - Reply sent to ('127.0.0.1', 56685)
+2024-10-12 15:23:11,246 - Accepted connection from ('127.0.0.1', 56708) on port 9992
+2024-10-12 15:23:11,245 - Connection closed with ('127.0.0.1', 56671)
+2024-10-12 15:23:11,247 - Reply sent to ('127.0.0.1', 56694)
+2024-10-12 15:23:11,247 - New connection from ('127.0.0.1', 56702)
+2024-10-12 15:23:11,247 - Connection closed with ('127.0.0.1', 56679)
+2024-10-12 15:23:11,247 - Accepted connection from ('127.0.0.1', 56711) on port 9993
+2024-10-12 15:23:11,247 - Reply sent to ('127.0.0.1', 56687)
+2024-10-12 15:23:11,247 - Message received from ('127.0.0.1', 56697): Hello from client 21!
+2024-10-12 15:23:11,247 - New connection from ('127.0.0.1', 56705)
+2024-10-12 15:23:11,249 - Accepted connection from ('127.0.0.1', 56714) on port 9991
+2024-10-12 15:23:11,249 - Connection closed with ('127.0.0.1', 56682)
+2024-10-12 15:23:11,249 - Reply sent to ('127.0.0.1', 56691)
+2024-10-12 15:23:11,249 - Message received from ('127.0.0.1', 56700): Hello from client 22!
+2024-10-12 15:23:11,249 - Connection closed with ('127.0.0.1', 56685)
+2024-10-12 15:23:11,249 - New connection from ('127.0.0.1', 56708)
+2024-10-12 15:23:11,249 - Accepted connection from ('127.0.0.1', 56717) on port 9992
+2024-10-12 15:23:11,250 - Connection closed with ('127.0.0.1', 56694)
+2024-10-12 15:23:11,250 - Message received from ('127.0.0.1', 56702): Hello from client 23!
+2024-10-12 15:23:11,250 - New connection from ('127.0.0.1', 56711)
+2024-10-12 15:23:11,250 - Reply sent to ('127.0.0.1', 56697)
+2024-10-12 15:23:11,250 - Connection closed with ('127.0.0.1', 56687)
+2024-10-12 15:23:11,250 - Accepted connection from ('127.0.0.1', 56720) on port 9993
+2024-10-12 15:23:11,251 - Message received from ('127.0.0.1', 56705): Hello from client 24!
+2024-10-12 15:23:11,251 - New connection from ('127.0.0.1', 56714)
+2024-10-12 15:23:11,251 - Accepted connection from ('127.0.0.1', 56723) on port 9991
+2024-10-12 15:23:11,251 - Connection closed with ('127.0.0.1', 56691)
+2024-10-12 15:23:11,251 - Reply sent to ('127.0.0.1', 56700)
+2024-10-12 15:23:11,252 - Message received from ('127.0.0.1', 56708): Hello from client 25!
+2024-10-12 15:23:11,252 - New connection from ('127.0.0.1', 56717)
+2024-10-12 15:23:11,252 - Accepted connection from ('127.0.0.1', 56725) on port 9992
+2024-10-12 15:23:11,252 - Reply sent to ('127.0.0.1', 56702)
+2024-10-12 15:23:11,252 - Message received from ('127.0.0.1', 56711): Hello from client 26!
+2024-10-12 15:23:11,253 - Connection closed with ('127.0.0.1', 56697)
+2024-10-12 15:23:11,253 - New connection from ('127.0.0.1', 56720)
+2024-10-12 15:23:11,253 - Accepted connection from ('127.0.0.1', 56728) on port 9993
+2024-10-12 15:23:11,253 - Reply sent to ('127.0.0.1', 56705)
+2024-10-12 15:23:11,253 - Message received from ('127.0.0.1', 56714): Hello from client 27!
+2024-10-12 15:23:11,253 - New connection from ('127.0.0.1', 56723)
+2024-10-12 15:23:11,254 - Accepted connection from ('127.0.0.1', 56731) on port 9991
+2024-10-12 15:23:11,254 - Connection closed with ('127.0.0.1', 56700)
+2024-10-12 15:23:11,254 - Reply sent to ('127.0.0.1', 56708)
+2024-10-12 15:23:11,254 - Message received from ('127.0.0.1', 56717): Hello from client 28!
+2024-10-12 15:23:11,254 - New connection from ('127.0.0.1', 56725)
+2024-10-12 15:23:11,255 - Reply sent to ('127.0.0.1', 56711)
+2024-10-12 15:23:11,255 - Accepted connection from ('127.0.0.1', 56734) on port 9992
+2024-10-12 15:23:11,255 - Connection closed with ('127.0.0.1', 56702)
+2024-10-12 15:23:11,255 - Message received from ('127.0.0.1', 56720): Hello from client 29!
+2024-10-12 15:23:11,255 - New connection from ('127.0.0.1', 56728)
+2024-10-12 15:23:11,255 - Accepted connection from ('127.0.0.1', 56736) on port 9993
+2024-10-12 15:23:11,255 - Connection closed with ('127.0.0.1', 56705)
+2024-10-12 15:23:11,256 - Reply sent to ('127.0.0.1', 56714)
+2024-10-12 15:23:11,256 - Message received from ('127.0.0.1', 56723): Hello from client 30!
+2024-10-12 15:23:11,256 - New connection from ('127.0.0.1', 56731)
+2024-10-12 15:23:11,256 - Accepted connection from ('127.0.0.1', 56739) on port 9991
+2024-10-12 15:23:11,256 - Connection closed with ('127.0.0.1', 56708)
+2024-10-12 15:23:11,256 - Reply sent to ('127.0.0.1', 56717)
+2024-10-12 15:23:11,256 - Message received from ('127.0.0.1', 56725): Hello from client 31!
+2024-10-12 15:23:11,257 - Connection closed with ('127.0.0.1', 56711)
+2024-10-12 15:23:11,257 - New connection from ('127.0.0.1', 56734)
+2024-10-12 15:23:11,257 - Accepted connection from ('127.0.0.1', 56743) on port 9992
+2024-10-12 15:23:11,257 - Reply sent to ('127.0.0.1', 56720)
+2024-10-12 15:23:11,257 - Message received from ('127.0.0.1', 56728): Hello from client 32!
+2024-10-12 15:23:11,257 - New connection from ('127.0.0.1', 56736)
+2024-10-12 15:23:11,258 - Accepted connection from ('127.0.0.1', 56753) on port 9993
+2024-10-12 15:23:11,258 - Connection closed with ('127.0.0.1', 56714)
+2024-10-12 15:23:11,258 - Reply sent to ('127.0.0.1', 56723)
+2024-10-12 15:23:11,258 - Message received from ('127.0.0.1', 56731): Hello from client 33!
+2024-10-12 15:23:11,258 - New connection from ('127.0.0.1', 56739)
+2024-10-12 15:23:11,258 - Accepted connection from ('127.0.0.1', 56756) on port 9991
+2024-10-12 15:23:11,258 - Connection closed with ('127.0.0.1', 56717)
+2024-10-12 15:23:11,258 - Reply sent to ('127.0.0.1', 56725)
+2024-10-12 15:23:11,260 - Message received from ('127.0.0.1', 56734): Hello from client 34!
+2024-10-12 15:23:11,260 - New connection from ('127.0.0.1', 56743)
+2024-10-12 15:23:11,260 - Accepted connection from ('127.0.0.1', 56766) on port 9992
+2024-10-12 15:23:11,260 - Connection closed with ('127.0.0.1', 56720)
+2024-10-12 15:23:11,260 - Reply sent to ('127.0.0.1', 56728)
+2024-10-12 15:23:11,260 - Message received from ('127.0.0.1', 56736): Hello from client 35!
+2024-10-12 15:23:11,260 - New connection from ('127.0.0.1', 56753)
+2024-10-12 15:23:11,260 - Accepted connection from ('127.0.0.1', 56769) on port 9993
+2024-10-12 15:23:11,261 - Connection closed with ('127.0.0.1', 56723)
+2024-10-12 15:23:11,261 - Reply sent to ('127.0.0.1', 56731)
+2024-10-12 15:23:11,261 - Message received from ('127.0.0.1', 56739): Hello from client 36!
+2024-10-12 15:23:11,262 - New connection from ('127.0.0.1', 56756)
+2024-10-12 15:23:11,262 - Accepted connection from ('127.0.0.1', 56772) on port 9991
+2024-10-12 15:23:11,262 - Reply sent to ('127.0.0.1', 56734)
+2024-10-12 15:23:11,262 - Connection closed with ('127.0.0.1', 56725)
+2024-10-12 15:23:11,262 - Message received from ('127.0.0.1', 56743): Hello from client 37!
+2024-10-12 15:23:11,262 - New connection from ('127.0.0.1', 56766)
+2024-10-12 15:23:11,263 - Accepted connection from ('127.0.0.1', 56784) on port 9992
+2024-10-12 15:23:11,263 - Connection closed with ('127.0.0.1', 56728)
+2024-10-12 15:23:11,263 - Reply sent to ('127.0.0.1', 56736)
+2024-10-12 15:23:11,263 - Message received from ('127.0.0.1', 56753): Hello from client 41!
+2024-10-12 15:23:11,263 - New connection from ('127.0.0.1', 56769)
+2024-10-12 15:23:11,263 - Accepted connection from ('127.0.0.1', 56792) on port 9993
+2024-10-12 15:23:11,263 - Connection closed with ('127.0.0.1', 56731)
+2024-10-12 15:23:11,263 - Reply sent to ('127.0.0.1', 56739)
+2024-10-12 15:23:11,264 - Message received from ('127.0.0.1', 56756): Hello from client 42!
+2024-10-12 15:23:11,264 - New connection from ('127.0.0.1', 56772)
+2024-10-12 15:23:11,264 - Connection closed with ('127.0.0.1', 56734)
+2024-10-12 15:23:11,264 - Accepted connection from ('127.0.0.1', 56793) on port 9991
+2024-10-12 15:23:11,264 - Reply sent to ('127.0.0.1', 56743)
+2024-10-12 15:23:11,264 - Message received from ('127.0.0.1', 56766): Hello from client 46!
+2024-10-12 15:23:11,264 - New connection from ('127.0.0.1', 56784)
+2024-10-12 15:23:11,265 - Accepted connection from ('127.0.0.1', 56794) on port 9992
+2024-10-12 15:23:11,265 - Connection closed with ('127.0.0.1', 56736)
+2024-10-12 15:23:11,265 - Reply sent to ('127.0.0.1', 56753)
+2024-10-12 15:23:11,265 - Message received from ('127.0.0.1', 56769): Hello from client 47!
+2024-10-12 15:23:11,265 - New connection from ('127.0.0.1', 56792)
+2024-10-12 15:23:11,265 - Accepted connection from ('127.0.0.1', 56798) on port 9993
+2024-10-12 15:23:11,265 - Connection closed with ('127.0.0.1', 56739)
+2024-10-12 15:23:11,265 - Reply sent to ('127.0.0.1', 56756)
+2024-10-12 15:23:11,266 - Message received from ('127.0.0.1', 56772): Hello from client 48!
+2024-10-12 15:23:11,266 - New connection from ('127.0.0.1', 56793)
+2024-10-12 15:23:11,266 - Accepted connection from ('127.0.0.1', 56799) on port 9991
+2024-10-12 15:23:11,266 - Connection closed with ('127.0.0.1', 56743)
+2024-10-12 15:23:11,266 - Reply sent to ('127.0.0.1', 56766)
+2024-10-12 15:23:11,266 - Message received from ('127.0.0.1', 56784): Hello from client 52!
+2024-10-12 15:23:11,267 - New connection from ('127.0.0.1', 56794)
+2024-10-12 15:23:11,267 - Accepted connection from ('127.0.0.1', 56803) on port 9992
+2024-10-12 15:23:11,267 - Reply sent to ('127.0.0.1', 56769)
+2024-10-12 15:23:11,267 - Connection closed with ('127.0.0.1', 56753)
+2024-10-12 15:23:11,267 - Message received from ('127.0.0.1', 56792): Hello from client 56!
+2024-10-12 15:23:11,267 - New connection from ('127.0.0.1', 56798)
+2024-10-12 15:23:11,267 - Accepted connection from ('127.0.0.1', 56804) on port 9993
+2024-10-12 15:23:11,269 - Connection closed with ('127.0.0.1', 56756)
+2024-10-12 15:23:11,269 - Reply sent to ('127.0.0.1', 56772)
+2024-10-12 15:23:11,269 - Message received from ('127.0.0.1', 56793): Hello from client 57!
+2024-10-12 15:23:11,269 - New connection from ('127.0.0.1', 56799)
+2024-10-12 15:23:11,269 - Accepted connection from ('127.0.0.1', 56805) on port 9991
+2024-10-12 15:23:11,269 - Reply sent to ('127.0.0.1', 56784)
+2024-10-12 15:23:11,269 - Connection closed with ('127.0.0.1', 56766)
+2024-10-12 15:23:11,269 - Message received from ('127.0.0.1', 56794): Hello from client 58!
+2024-10-12 15:23:11,270 - New connection from ('127.0.0.1', 56803)
+2024-10-12 15:23:11,270 - Accepted connection from ('127.0.0.1', 56809) on port 9992
+2024-10-12 15:23:11,270 - Connection closed with ('127.0.0.1', 56769)
+2024-10-12 15:23:11,270 - Reply sent to ('127.0.0.1', 56792)
+2024-10-12 15:23:11,270 - Message received from ('127.0.0.1', 56798): Hello from client 62!
+2024-10-12 15:23:11,270 - New connection from ('127.0.0.1', 56804)
+2024-10-12 15:23:11,271 - Accepted connection from ('127.0.0.1', 56810) on port 9993
+2024-10-12 15:23:11,271 - Reply sent to ('127.0.0.1', 56793)
+2024-10-12 15:23:11,271 - Connection closed with ('127.0.0.1', 56772)
+2024-10-12 15:23:11,271 - Message received from ('127.0.0.1', 56799): Hello from client 63!
+2024-10-12 15:23:11,271 - New connection from ('127.0.0.1', 56805)
+2024-10-12 15:23:11,272 - Accepted connection from ('127.0.0.1', 56811) on port 9991
+2024-10-12 15:23:11,272 - Connection closed with ('127.0.0.1', 56784)
+2024-10-12 15:23:11,272 - Reply sent to ('127.0.0.1', 56794)
+2024-10-12 15:23:11,272 - Message received from ('127.0.0.1', 56803): Hello from client 67!
+2024-10-12 15:23:11,272 - New connection from ('127.0.0.1', 56809)
+2024-10-12 15:23:11,272 - Accepted connection from ('127.0.0.1', 56815) on port 9992
+2024-10-12 15:23:11,273 - Reply sent to ('127.0.0.1', 56798)
+2024-10-12 15:23:11,273 - Connection closed with ('127.0.0.1', 56792)
+2024-10-12 15:23:11,273 - Message received from ('127.0.0.1', 56804): Hello from client 68!
+2024-10-12 15:23:11,273 - New connection from ('127.0.0.1', 56810)
+2024-10-12 15:23:11,273 - Accepted connection from ('127.0.0.1', 56816) on port 9993
+2024-10-12 15:23:11,273 - Connection closed with ('127.0.0.1', 56793)
+2024-10-12 15:23:11,274 - Reply sent to ('127.0.0.1', 56799)
+2024-10-12 15:23:11,274 - Message received from ('127.0.0.1', 56805): Hello from client 69!
+2024-10-12 15:23:11,274 - New connection from ('127.0.0.1', 56811)
+2024-10-12 15:23:11,274 - Accepted connection from ('127.0.0.1', 56820) on port 9991
+2024-10-12 15:23:11,274 - Connection closed with ('127.0.0.1', 56794)
+2024-10-12 15:23:11,275 - Reply sent to ('127.0.0.1', 56803)
+2024-10-12 15:23:11,275 - Message received from ('127.0.0.1', 56809): Hello from client 73!
+2024-10-12 15:23:11,275 - New connection from ('127.0.0.1', 56815)
+2024-10-12 15:23:11,275 - Connection closed with ('127.0.0.1', 56798)
+2024-10-12 15:23:11,275 - Accepted connection from ('127.0.0.1', 56821) on port 9992
+2024-10-12 15:23:11,275 - Reply sent to ('127.0.0.1', 56804)
+2024-10-12 15:23:11,275 - Message received from ('127.0.0.1', 56810): Hello from client 74!
+2024-10-12 15:23:11,275 - New connection from ('127.0.0.1', 56816)
+2024-10-12 15:23:11,276 - Accepted connection from ('127.0.0.1', 56825) on port 9993
+2024-10-12 15:23:11,276 - Reply sent to ('127.0.0.1', 56805)
+2024-10-12 15:23:11,276 - Connection closed with ('127.0.0.1', 56799)
+2024-10-12 15:23:11,276 - Message received from ('127.0.0.1', 56811): Hello from client 75!
+2024-10-12 15:23:11,276 - New connection from ('127.0.0.1', 56820)
+2024-10-12 15:23:11,276 - Accepted connection from ('127.0.0.1', 56826) on port 9991
+2024-10-12 15:23:11,276 - Reply sent to ('127.0.0.1', 56809)
+2024-10-12 15:23:11,276 - Connection closed with ('127.0.0.1', 56803)
+2024-10-12 15:23:11,278 - Message received from ('127.0.0.1', 56815): Hello from client 79!
+2024-10-12 15:23:11,278 - New connection from ('127.0.0.1', 56821)
+2024-10-12 15:23:11,278 - Connection closed with ('127.0.0.1', 56804)
+2024-10-12 15:23:11,278 - Reply sent to ('127.0.0.1', 56810)
+2024-10-12 15:23:11,278 - Accepted connection from ('127.0.0.1', 56827) on port 9992
+2024-10-12 15:23:11,278 - Message received from ('127.0.0.1', 56816): Hello from client 80!
+2024-10-12 15:23:11,278 - New connection from ('127.0.0.1', 56825)
+2024-10-12 15:23:11,278 - Accepted connection from ('127.0.0.1', 56831) on port 9993
+2024-10-12 15:23:11,279 - Connection closed with ('127.0.0.1', 56805)
+2024-10-12 15:23:11,279 - Reply sent to ('127.0.0.1', 56811)
+2024-10-12 15:23:11,279 - Message received from ('127.0.0.1', 56820): Hello from client 84!
+2024-10-12 15:23:11,279 - New connection from ('127.0.0.1', 56826)
+2024-10-12 15:23:11,279 - Accepted connection from ('127.0.0.1', 56832) on port 9991
+2024-10-12 15:23:11,279 - Connection closed with ('127.0.0.1', 56809)
+2024-10-12 15:23:11,279 - Reply sent to ('127.0.0.1', 56815)
+2024-10-12 15:23:11,279 - Message received from ('127.0.0.1', 56821): Hello from client 85!
+2024-10-12 15:23:11,279 - Connection closed with ('127.0.0.1', 56810)
+2024-10-12 15:23:11,280 - New connection from ('127.0.0.1', 56827)
+2024-10-12 15:23:11,280 - Reply sent to ('127.0.0.1', 56816)
+2024-10-12 15:23:11,280 - Accepted connection from ('127.0.0.1', 56833) on port 9992
+2024-10-12 15:23:11,280 - Message received from ('127.0.0.1', 56825): Hello from client 89!
+2024-10-12 15:23:11,280 - New connection from ('127.0.0.1', 56831)
+2024-10-12 15:23:11,280 - Connection closed with ('127.0.0.1', 56811)
+2024-10-12 15:23:11,280 - Reply sent to ('127.0.0.1', 56820)
+2024-10-12 15:23:11,280 - Message received from ('127.0.0.1', 56826): Hello from client 90!
+2024-10-12 15:23:11,282 - New connection from ('127.0.0.1', 56832)
+2024-10-12 15:23:11,282 - Connection closed with ('127.0.0.1', 56815)
+2024-10-12 15:23:11,282 - Reply sent to ('127.0.0.1', 56821)
+2024-10-12 15:23:11,282 - Message received from ('127.0.0.1', 56827): Hello from client 91!
+2024-10-12 15:23:11,282 - Connection closed with ('127.0.0.1', 56816)
+2024-10-12 15:23:11,282 - New connection from ('127.0.0.1', 56833)
+2024-10-12 15:23:11,282 - Reply sent to ('127.0.0.1', 56825)
+2024-10-12 15:23:11,282 - Message received from ('127.0.0.1', 56831): Hello from client 95!
+2024-10-12 15:23:11,283 - Reply sent to ('127.0.0.1', 56826)
+2024-10-12 15:23:11,283 - Connection closed with ('127.0.0.1', 56820)
+2024-10-12 15:23:11,283 - Message received from ('127.0.0.1', 56832): Hello from client 96!
+2024-10-12 15:23:11,283 - Reply sent to ('127.0.0.1', 56827)
+2024-10-12 15:23:11,283 - Connection closed with ('127.0.0.1', 56821)
+2024-10-12 15:23:11,283 - Message received from ('127.0.0.1', 56833): Hello from client 97!
+2024-10-12 15:23:11,283 - Reply sent to ('127.0.0.1', 56831)
+2024-10-12 15:23:11,283 - Connection closed with ('127.0.0.1', 56825)
+2024-10-12 15:23:11,284 - Connection closed with ('127.0.0.1', 56826)
+2024-10-12 15:23:11,284 - Reply sent to ('127.0.0.1', 56832)
+2024-10-12 15:23:11,284 - Connection closed with ('127.0.0.1', 56827)
+2024-10-12 15:23:11,284 - Reply sent to ('127.0.0.1', 56833)
+2024-10-12 15:23:11,284 - Connection closed with ('127.0.0.1', 56831)
+2024-10-12 15:23:11,284 - Connection closed with ('127.0.0.1', 56832)
+2024-10-12 15:23:11,284 - Connection closed with ('127.0.0.1', 56833)
+2024-10-12 15:23:11,757 - Accepted connection from ('127.0.0.1', 56764) on port 9991
+2024-10-12 15:23:11,757 - Accepted connection from ('127.0.0.1', 56759) on port 9992
+2024-10-12 15:23:11,757 - Accepted connection from ('127.0.0.1', 56787) on port 9993
+2024-10-12 15:23:11,759 - New connection from ('127.0.0.1', 56764)
+2024-10-12 15:23:11,759 - New connection from ('127.0.0.1', 56759)
+2024-10-12 15:23:11,759 - Accepted connection from ('127.0.0.1', 56747) on port 9991
+2024-10-12 15:23:11,760 - New connection from ('127.0.0.1', 56787)
+2024-10-12 15:23:11,760 - Accepted connection from ('127.0.0.1', 56750) on port 9992
+2024-10-12 15:23:11,760 - Message received from ('127.0.0.1', 56764): Hello from client 45!
+2024-10-12 15:23:11,760 - Accepted connection from ('127.0.0.1', 56778) on port 9993
+2024-10-12 15:23:11,760 - Message received from ('127.0.0.1', 56759): Hello from client 43!
+2024-10-12 15:23:11,760 - New connection from ('127.0.0.1', 56747)
+2024-10-12 15:23:11,760 - Message received from ('127.0.0.1', 56787): Hello from client 53!
+2024-10-12 15:23:11,760 - Accepted connection from ('127.0.0.1', 56780) on port 9991
+2024-10-12 15:23:11,761 - New connection from ('127.0.0.1', 56750)
+2024-10-12 15:23:11,761 - Reply sent to ('127.0.0.1', 56764)
+2024-10-12 15:23:11,761 - Accepted connection from ('127.0.0.1', 56797) on port 9992
+2024-10-12 15:23:11,761 - New connection from ('127.0.0.1', 56778)
+2024-10-12 15:23:11,761 - Reply sent to ('127.0.0.1', 56759)
+2024-10-12 15:23:11,761 - Message received from ('127.0.0.1', 56747): Hello from client 39!
+2024-10-12 15:23:11,761 - Accepted connection from ('127.0.0.1', 56745) on port 9993
+2024-10-12 15:23:11,761 - Reply sent to ('127.0.0.1', 56787)
+2024-10-12 15:23:11,761 - New connection from ('127.0.0.1', 56780)
+2024-10-12 15:23:11,762 - Message received from ('127.0.0.1', 56750): Hello from client 40!
+2024-10-12 15:23:11,762 - Accepted connection from ('127.0.0.1', 56802) on port 9991
+2024-10-12 15:23:11,762 - Connection closed with ('127.0.0.1', 56764)
+2024-10-12 15:23:11,762 - New connection from ('127.0.0.1', 56797)
+2024-10-12 15:23:11,762 - Message received from ('127.0.0.1', 56778): Hello from client 50!
+2024-10-12 15:23:11,762 - Accepted connection from ('127.0.0.1', 56791) on port 9992
+2024-10-12 15:23:11,762 - Connection closed with ('127.0.0.1', 56759)
+2024-10-12 15:23:11,762 - Reply sent to ('127.0.0.1', 56747)
+2024-10-12 15:23:11,762 - New connection from ('127.0.0.1', 56745)
+2024-10-12 15:23:11,763 - Message received from ('127.0.0.1', 56780): Hello from client 51!
+2024-10-12 15:23:11,763 - Accepted connection from ('127.0.0.1', 56761) on port 9993
+2024-10-12 15:23:11,763 - Connection closed with ('127.0.0.1', 56787)
+2024-10-12 15:23:11,763 - Reply sent to ('127.0.0.1', 56750)
+2024-10-12 15:23:11,763 - New connection from ('127.0.0.1', 56802)
+2024-10-12 15:23:11,763 - Accepted connection from ('127.0.0.1', 56796) on port 9991
+2024-10-12 15:23:11,763 - Message received from ('127.0.0.1', 56797): Hello from client 61!
+2024-10-12 15:23:11,763 - Reply sent to ('127.0.0.1', 56778)
+2024-10-12 15:23:11,765 - New connection from ('127.0.0.1', 56791)
+2024-10-12 15:23:11,765 - Accepted connection from ('127.0.0.1', 56806) on port 9992
+2024-10-12 15:23:11,765 - Connection closed with ('127.0.0.1', 56747)
+2024-10-12 15:23:11,765 - Message received from ('127.0.0.1', 56745): Hello from client 38!
+2024-10-12 15:23:11,765 - Reply sent to ('127.0.0.1', 56780)
+2024-10-12 15:23:11,766 - New connection from ('127.0.0.1', 56761)
+2024-10-12 15:23:11,766 - Connection closed with ('127.0.0.1', 56750)
+2024-10-12 15:23:11,766 - Accepted connection from ('127.0.0.1', 56795) on port 9993
+2024-10-12 15:23:11,766 - Message received from ('127.0.0.1', 56802): Hello from client 66!
+2024-10-12 15:23:11,766 - New connection from ('127.0.0.1', 56796)
+2024-10-12 15:23:11,766 - Accepted connection from ('127.0.0.1', 56789) on port 9991
+2024-10-12 15:23:11,766 - Reply sent to ('127.0.0.1', 56797)
+2024-10-12 15:23:11,766 - Connection closed with ('127.0.0.1', 56778)
+2024-10-12 15:23:11,767 - Message received from ('127.0.0.1', 56791): Hello from client 55!
+2024-10-12 15:23:11,767 - New connection from ('127.0.0.1', 56806)
+2024-10-12 15:23:11,767 - Accepted connection from ('127.0.0.1', 56775) on port 9992
+2024-10-12 15:23:11,767 - Reply sent to ('127.0.0.1', 56745)
+2024-10-12 15:23:11,767 - Connection closed with ('127.0.0.1', 56780)
+2024-10-12 15:23:11,767 - Message received from ('127.0.0.1', 56761): Hello from client 44!
+2024-10-12 15:23:11,768 - New connection from ('127.0.0.1', 56795)
+2024-10-12 15:23:11,768 - Reply sent to ('127.0.0.1', 56802)
+2024-10-12 15:23:11,768 - Message received from ('127.0.0.1', 56796): Hello from client 60!
+2024-10-12 15:23:11,768 - Accepted connection from ('127.0.0.1', 56801) on port 9993
+2024-10-12 15:23:11,768 - New connection from ('127.0.0.1', 56789)
+2024-10-12 15:23:11,768 - Connection closed with ('127.0.0.1', 56797)
+2024-10-12 15:23:11,769 - Reply sent to ('127.0.0.1', 56791)
+2024-10-12 15:23:11,769 - Message received from ('127.0.0.1', 56806): Hello from client 70!
+2024-10-12 15:23:11,769 - New connection from ('127.0.0.1', 56775)
+2024-10-12 15:23:11,769 - Connection closed with ('127.0.0.1', 56745)
+2024-10-12 15:23:11,770 - Reply sent to ('127.0.0.1', 56761)
+2024-10-12 15:23:11,770 - Message received from ('127.0.0.1', 56795): Hello from client 59!
+2024-10-12 15:23:11,770 - Connection closed with ('127.0.0.1', 56802)
+2024-10-12 15:23:11,770 - Reply sent to ('127.0.0.1', 56796)
+2024-10-12 15:23:11,770 - New connection from ('127.0.0.1', 56801)
+2024-10-12 15:23:11,771 - Message received from ('127.0.0.1', 56789): Hello from client 54!
+2024-10-12 15:23:11,771 - Reply sent to ('127.0.0.1', 56806)
+2024-10-12 15:23:11,771 - Connection closed with ('127.0.0.1', 56791)
+2024-10-12 15:23:11,771 - Message received from ('127.0.0.1', 56775): Hello from client 49!
+2024-10-12 15:23:11,771 - Connection closed with ('127.0.0.1', 56761)
+2024-10-12 15:23:11,772 - Reply sent to ('127.0.0.1', 56795)
+2024-10-12 15:23:11,772 - Connection closed with ('127.0.0.1', 56796)
+2024-10-12 15:23:11,772 - Message received from ('127.0.0.1', 56801): Hello from client 65!
+2024-10-12 15:23:11,772 - Reply sent to ('127.0.0.1', 56789)
+2024-10-12 15:23:11,772 - Connection closed with ('127.0.0.1', 56806)
+2024-10-12 15:23:11,773 - Reply sent to ('127.0.0.1', 56775)
+2024-10-12 15:23:11,773 - Accepted connection from ('127.0.0.1', 56823) on port 9991
+2024-10-12 15:23:11,773 - Accepted connection from ('127.0.0.1', 56822) on port 9993
+2024-10-12 15:23:11,773 - Accepted connection from ('127.0.0.1', 56824) on port 9992
+2024-10-12 15:23:11,773 - Connection closed with ('127.0.0.1', 56795)
+2024-10-12 15:23:11,774 - Reply sent to ('127.0.0.1', 56801)
+2024-10-12 15:23:11,774 - Connection closed with ('127.0.0.1', 56789)
+2024-10-12 15:23:11,774 - Connection closed with ('127.0.0.1', 56775)
+2024-10-12 15:23:11,774 - New connection from ('127.0.0.1', 56823)
+2024-10-12 15:23:11,774 - Accepted connection from ('127.0.0.1', 56817) on port 9991
+2024-10-12 15:23:11,775 - New connection from ('127.0.0.1', 56822)
+2024-10-12 15:23:11,775 - New connection from ('127.0.0.1', 56824)
+2024-10-12 15:23:11,775 - Accepted connection from ('127.0.0.1', 56828) on port 9993
+2024-10-12 15:23:11,775 - Accepted connection from ('127.0.0.1', 56836) on port 9992
+2024-10-12 15:23:11,775 - Connection closed with ('127.0.0.1', 56801)
+2024-10-12 15:23:11,776 - Message received from ('127.0.0.1', 56823): Hello from client 87!
+2024-10-12 15:23:11,776 - New connection from ('127.0.0.1', 56817)
+2024-10-12 15:23:11,776 - Message received from ('127.0.0.1', 56822): Hello from client 86!
+2024-10-12 15:23:11,776 - Message received from ('127.0.0.1', 56824): Hello from client 88!
+2024-10-12 15:23:11,776 - Accepted connection from ('127.0.0.1', 56829) on port 9991
+2024-10-12 15:23:11,777 - New connection from ('127.0.0.1', 56828)
+2024-10-12 15:23:11,777 - Accepted connection from ('127.0.0.1', 56807) on port 9993
+2024-10-12 15:23:11,777 - New connection from ('127.0.0.1', 56836)
+2024-10-12 15:23:11,777 - Accepted connection from ('127.0.0.1', 56812) on port 9992
+2024-10-12 15:23:11,777 - Reply sent to ('127.0.0.1', 56823)
+2024-10-12 15:23:11,777 - Message received from ('127.0.0.1', 56817): Hello from client 81!
+2024-10-12 15:23:11,778 - Reply sent to ('127.0.0.1', 56822)
+2024-10-12 15:23:11,778 - Reply sent to ('127.0.0.1', 56824)
+2024-10-12 15:23:11,778 - New connection from ('127.0.0.1', 56829)
+2024-10-12 15:23:11,778 - Message received from ('127.0.0.1', 56828): Hello from client 92!
+2024-10-12 15:23:11,778 - Accepted connection from ('127.0.0.1', 56814) on port 9991
+2024-10-12 15:23:11,778 - New connection from ('127.0.0.1', 56807)
+2024-10-12 15:23:11,778 - Message received from ('127.0.0.1', 56836): Hello from client 100!
+2024-10-12 15:23:11,778 - Accepted connection from ('127.0.0.1', 56813) on port 9993
+2024-10-12 15:23:11,778 - New connection from ('127.0.0.1', 56812)
+2024-10-12 15:23:11,779 - Accepted connection from ('127.0.0.1', 56830) on port 9992
+2024-10-12 15:23:11,779 - Connection closed with ('127.0.0.1', 56823)
+2024-10-12 15:23:11,779 - Reply sent to ('127.0.0.1', 56817)
+2024-10-12 15:23:11,779 - Connection closed with ('127.0.0.1', 56822)
+2024-10-12 15:23:11,779 - Connection closed with ('127.0.0.1', 56824)
+2024-10-12 15:23:11,779 - Message received from ('127.0.0.1', 56829): Hello from client 93!
+2024-10-12 15:23:11,779 - Reply sent to ('127.0.0.1', 56828)
+2024-10-12 15:23:11,780 - New connection from ('127.0.0.1', 56814)
+2024-10-12 15:23:11,780 - Message received from ('127.0.0.1', 56807): Hello from client 71!
+2024-10-12 15:23:11,780 - Accepted connection from ('127.0.0.1', 56808) on port 9991
+2024-10-12 15:23:11,780 - Reply sent to ('127.0.0.1', 56836)
+2024-10-12 15:23:11,780 - New connection from ('127.0.0.1', 56813)
+2024-10-12 15:23:11,780 - Message received from ('127.0.0.1', 56812): Hello from client 76!
+2024-10-12 15:23:11,780 - Accepted connection from ('127.0.0.1', 56819) on port 9993
+2024-10-12 15:23:11,780 - New connection from ('127.0.0.1', 56830)
+2024-10-12 15:23:11,780 - Accepted connection from ('127.0.0.1', 56818) on port 9992
+2024-10-12 15:23:11,781 - Connection closed with ('127.0.0.1', 56817)
+2024-10-12 15:23:11,781 - Reply sent to ('127.0.0.1', 56829)
+2024-10-12 15:23:11,781 - Connection closed with ('127.0.0.1', 56828)
+2024-10-12 15:23:11,781 - Message received from ('127.0.0.1', 56814): Hello from client 78!
+2024-10-12 15:23:11,781 - Reply sent to ('127.0.0.1', 56807)
+2024-10-12 15:23:11,781 - New connection from ('127.0.0.1', 56808)
+2024-10-12 15:23:11,782 - Message received from ('127.0.0.1', 56813): Hello from client 77!
+2024-10-12 15:23:11,782 - Connection closed with ('127.0.0.1', 56836)
+2024-10-12 15:23:11,782 - Reply sent to ('127.0.0.1', 56812)
+2024-10-12 15:23:11,782 - Accepted connection from ('127.0.0.1', 56835) on port 9991
+2024-10-12 15:23:11,782 - New connection from ('127.0.0.1', 56819)
+2024-10-12 15:23:11,782 - Message received from ('127.0.0.1', 56830): Hello from client 94!
+2024-10-12 15:23:11,782 - Accepted connection from ('127.0.0.1', 56834) on port 9993
+2024-10-12 15:23:11,782 - New connection from ('127.0.0.1', 56818)
+2024-10-12 15:23:11,784 - Connection closed with ('127.0.0.1', 56829)
+2024-10-12 15:23:11,784 - Reply sent to ('127.0.0.1', 56814)
+2024-10-12 15:23:11,784 - Message received from ('127.0.0.1', 56808): Hello from client 72!
+2024-10-12 15:23:11,784 - Connection closed with ('127.0.0.1', 56807)
+2024-10-12 15:23:11,784 - Reply sent to ('127.0.0.1', 56813)
+2024-10-12 15:23:11,784 - Connection closed with ('127.0.0.1', 56812)
+2024-10-12 15:23:11,785 - New connection from ('127.0.0.1', 56835)
+2024-10-12 15:23:11,785 - Message received from ('127.0.0.1', 56819): Hello from client 83!
+2024-10-12 15:23:11,785 - Reply sent to ('127.0.0.1', 56830)
+2024-10-12 15:23:11,785 - New connection from ('127.0.0.1', 56834)
+2024-10-12 15:23:11,785 - Message received from ('127.0.0.1', 56818): Hello from client 82!
+2024-10-12 15:23:11,785 - Connection closed with ('127.0.0.1', 56814)
+2024-10-12 15:23:11,785 - Reply sent to ('127.0.0.1', 56808)
+2024-10-12 15:23:11,785 - Connection closed with ('127.0.0.1', 56813)
+2024-10-12 15:23:11,786 - Message received from ('127.0.0.1', 56835): Hello from client 99!
+2024-10-12 15:23:11,786 - Reply sent to ('127.0.0.1', 56819)
+2024-10-12 15:23:11,786 - Connection closed with ('127.0.0.1', 56830)
+2024-10-12 15:23:11,786 - Message received from ('127.0.0.1', 56834): Hello from client 98!
+2024-10-12 15:23:11,786 - Reply sent to ('127.0.0.1', 56818)
+2024-10-12 15:23:11,786 - Connection closed with ('127.0.0.1', 56808)
+2024-10-12 15:23:11,787 - Reply sent to ('127.0.0.1', 56835)
+2024-10-12 15:23:11,787 - Connection closed with ('127.0.0.1', 56819)
+2024-10-12 15:23:11,787 - Reply sent to ('127.0.0.1', 56834)
+2024-10-12 15:23:11,787 - Connection closed with ('127.0.0.1', 56818)
+2024-10-12 15:23:11,787 - Connection closed with ('127.0.0.1', 56835)
+2024-10-12 15:23:11,788 - Connection closed with ('127.0.0.1', 56834)
+2024-10-12 15:23:12,273 - Accepted connection from ('127.0.0.1', 56800) on port 9992
+2024-10-12 15:23:12,274 - New connection from ('127.0.0.1', 56800)
+2024-10-12 15:23:12,274 - Message received from ('127.0.0.1', 56800): Hello from client 64!
+2024-10-12 15:23:12,274 - Reply sent to ('127.0.0.1', 56800)
+2024-10-12 15:23:12,274 - Connection closed with ('127.0.0.1', 56800)
+2024-10-12 15:25:02,485 - Accepted connection from ('127.0.0.1', 56859) on port 9993
+2024-10-12 15:25:02,486 - Accepted connection from ('127.0.0.1', 56860) on port 9991
+2024-10-12 15:25:02,486 - New connection from ('127.0.0.1', 56859)
+2024-10-12 15:25:02,486 - Accepted connection from ('127.0.0.1', 56861) on port 9992
+2024-10-12 15:25:02,486 - New connection from ('127.0.0.1', 56860)
+2024-10-12 15:25:02,486 - Message received from ('127.0.0.1', 56859): Hello from client 1!
+2024-10-12 15:25:02,486 - Accepted connection from ('127.0.0.1', 56862) on port 9993
+2024-10-12 15:25:02,487 - Accepted connection from ('127.0.0.1', 56863) on port 9991
+2024-10-12 15:25:02,487 - New connection from ('127.0.0.1', 56861)
+2024-10-12 15:25:02,487 - Message received from ('127.0.0.1', 56860): Hello from client 2!
+2024-10-12 15:25:02,487 - Reply sent to ('127.0.0.1', 56859)
+2024-10-12 15:25:02,487 - New connection from ('127.0.0.1', 56862)
+2024-10-12 15:25:02,488 - New connection from ('127.0.0.1', 56863)
+2024-10-12 15:25:02,488 - Message received from ('127.0.0.1', 56861): Hello from client 3!
+2024-10-12 15:25:02,488 - Reply sent to ('127.0.0.1', 56860)
+2024-10-12 15:25:02,488 - Connection closed with ('127.0.0.1', 56859)
+2024-10-12 15:25:02,488 - Message received from ('127.0.0.1', 56862): Hello from client 4!
+2024-10-12 15:25:02,488 - Message received from ('127.0.0.1', 56863): Hello from client 5!
+2024-10-12 15:25:02,488 - Reply sent to ('127.0.0.1', 56861)
+2024-10-12 15:25:02,488 - Connection closed with ('127.0.0.1', 56860)
+2024-10-12 15:25:02,489 - Reply sent to ('127.0.0.1', 56862)
+2024-10-12 15:25:02,489 - Reply sent to ('127.0.0.1', 56863)
+2024-10-12 15:25:02,489 - Connection closed with ('127.0.0.1', 56861)
+2024-10-12 15:25:02,489 - Connection closed with ('127.0.0.1', 56862)
+2024-10-12 15:25:02,489 - Connection closed with ('127.0.0.1', 56863)
+2024-10-12 15:26:42,838 - Accepted connection from ('127.0.0.1', 56886) on port 9992
+2024-10-12 15:26:42,838 - Accepted connection from ('127.0.0.1', 56889) on port 9993
+2024-10-12 15:26:42,838 - New connection from ('127.0.0.1', 56886)
+2024-10-12 15:26:42,838 - New connection from ('127.0.0.1', 56889)
+2024-10-12 15:26:42,839 - Accepted connection from ('127.0.0.1', 56891) on port 9991
+2024-10-12 15:26:42,839 - Message received from ('127.0.0.1', 56886): Hello from client 1!
+2024-10-12 15:26:42,839 - Accepted connection from ('127.0.0.1', 56894) on port 9992
+2024-10-12 15:26:42,839 - Message received from ('127.0.0.1', 56889): Hello from client 2!
+2024-10-12 15:26:42,839 - New connection from ('127.0.0.1', 56891)
+2024-10-12 15:26:42,839 - Accepted connection from ('127.0.0.1', 56895) on port 9993
+2024-10-12 15:26:42,839 - Accepted connection from ('127.0.0.1', 56896) on port 9991
+2024-10-12 15:26:42,839 - Reply sent to ('127.0.0.1', 56886)
+2024-10-12 15:26:42,839 - New connection from ('127.0.0.1', 56894)
+2024-10-12 15:26:42,839 - Reply sent to ('127.0.0.1', 56889)
+2024-10-12 15:26:42,840 - Accepted connection from ('127.0.0.1', 56897) on port 9992
+2024-10-12 15:26:42,840 - Message received from ('127.0.0.1', 56891): Hello from client 3!
+2024-10-12 15:26:42,840 - New connection from ('127.0.0.1', 56895)
+2024-10-12 15:26:42,840 - New connection from ('127.0.0.1', 56896)
+2024-10-12 15:26:42,840 - Accepted connection from ('127.0.0.1', 56898) on port 9993
+2024-10-12 15:26:42,840 - Accepted connection from ('127.0.0.1', 56899) on port 9991
+2024-10-12 15:26:42,840 - Connection closed with ('127.0.0.1', 56886)
+2024-10-12 15:26:42,840 - Message received from ('127.0.0.1', 56894): Hello from client 4!
+2024-10-12 15:26:42,842 - New connection from ('127.0.0.1', 56897)
+2024-10-12 15:26:42,842 - Reply sent to ('127.0.0.1', 56891)
+2024-10-12 15:26:42,842 - Connection closed with ('127.0.0.1', 56889)
+2024-10-12 15:26:42,842 - Accepted connection from ('127.0.0.1', 56900) on port 9992
+2024-10-12 15:26:42,842 - Message received from ('127.0.0.1', 56895): Hello from client 5!
+2024-10-12 15:26:42,842 - Message received from ('127.0.0.1', 56896): Hello from client 6!
+2024-10-12 15:26:42,842 - New connection from ('127.0.0.1', 56898)
+2024-10-12 15:26:42,842 - New connection from ('127.0.0.1', 56899)
+2024-10-12 15:26:42,843 - Reply sent to ('127.0.0.1', 56894)
+2024-10-12 15:26:42,843 - Message received from ('127.0.0.1', 56897): Hello from client 7!
+2024-10-12 15:26:42,843 - Connection closed with ('127.0.0.1', 56891)
+2024-10-12 15:26:42,843 - New connection from ('127.0.0.1', 56900)
+2024-10-12 15:26:42,843 - Reply sent to ('127.0.0.1', 56895)
+2024-10-12 15:26:42,843 - Reply sent to ('127.0.0.1', 56896)
+2024-10-12 15:26:42,843 - Message received from ('127.0.0.1', 56898): Hello from client 8!
+2024-10-12 15:26:42,843 - Message received from ('127.0.0.1', 56899): Hello from client 9!
+2024-10-12 15:26:42,844 - Connection closed with ('127.0.0.1', 56894)
+2024-10-12 15:26:42,844 - Reply sent to ('127.0.0.1', 56897)
+2024-10-12 15:26:42,844 - Message received from ('127.0.0.1', 56900): Hello from client 10!
+2024-10-12 15:26:42,844 - Connection closed with ('127.0.0.1', 56895)
+2024-10-12 15:26:42,844 - Connection closed with ('127.0.0.1', 56896)
+2024-10-12 15:26:42,844 - Reply sent to ('127.0.0.1', 56898)
+2024-10-12 15:26:42,844 - Reply sent to ('127.0.0.1', 56899)
+2024-10-12 15:26:42,845 - Connection closed with ('127.0.0.1', 56897)
+2024-10-12 15:26:42,845 - Reply sent to ('127.0.0.1', 56900)
+2024-10-12 15:26:42,845 - Connection closed with ('127.0.0.1', 56898)
+2024-10-12 15:26:42,845 - Connection closed with ('127.0.0.1', 56899)
+2024-10-12 15:26:42,845 - Connection closed with ('127.0.0.1', 56900)
+2024-10-12 15:39:16,686 - Accepted connection from ('127.0.0.1', 57012) on port 9991
+2024-10-12 15:39:16,687 - Accepted connection from ('127.0.0.1', 57014) on port 9992
+2024-10-12 15:39:16,687 - New connection from ('127.0.0.1', 57012)
+2024-10-12 15:39:16,687 - Accepted connection from ('127.0.0.1', 57017) on port 9993
+2024-10-12 15:39:16,687 - New connection from ('127.0.0.1', 57014)
+2024-10-12 15:39:16,687 - Accepted connection from ('127.0.0.1', 57020) on port 9991
+2024-10-12 15:39:16,687 - Message received from ('127.0.0.1', 57012): Hello from client 2!
+2024-10-12 15:39:16,687 - Accepted connection from ('127.0.0.1', 57023) on port 9992
+2024-10-12 15:39:16,688 - New connection from ('127.0.0.1', 57017)
+2024-10-12 15:39:16,688 - Message received from ('127.0.0.1', 57014): Hello from client 1!
+2024-10-12 15:39:16,688 - Accepted connection from ('127.0.0.1', 57026) on port 9993
+2024-10-12 15:39:16,688 - New connection from ('127.0.0.1', 57020)
+2024-10-12 15:39:16,688 - Reply sent to ('127.0.0.1', 57012)
+2024-10-12 15:39:16,688 - Accepted connection from ('127.0.0.1', 57028) on port 9991
+2024-10-12 15:39:16,689 - New connection from ('127.0.0.1', 57023)
+2024-10-12 15:39:16,689 - Message received from ('127.0.0.1', 57017): Hello from client 3!
+2024-10-12 15:39:16,689 - Accepted connection from ('127.0.0.1', 57030) on port 9992
+2024-10-12 15:39:16,689 - Reply sent to ('127.0.0.1', 57014)
+2024-10-12 15:39:16,689 - New connection from ('127.0.0.1', 57026)
+2024-10-12 15:39:16,689 - Message received from ('127.0.0.1', 57020): Hello from client 4!
+2024-10-12 15:39:16,689 - Accepted connection from ('127.0.0.1', 57033) on port 9993
+2024-10-12 15:39:16,691 - New connection from ('127.0.0.1', 57028)
+2024-10-12 15:39:16,691 - Connection closed with ('127.0.0.1', 57012)
+2024-10-12 15:39:16,691 - Message received from ('127.0.0.1', 57023): Hello from client 5!
+2024-10-12 15:39:16,691 - Accepted connection from ('127.0.0.1', 57034) on port 9991
+2024-10-12 15:39:16,691 - Reply sent to ('127.0.0.1', 57017)
+2024-10-12 15:39:16,691 - New connection from ('127.0.0.1', 57030)
+2024-10-12 15:39:16,691 - Connection closed with ('127.0.0.1', 57014)
+2024-10-12 15:39:16,691 - Message received from ('127.0.0.1', 57026): Hello from client 6!
+2024-10-12 15:39:16,691 - Reply sent to ('127.0.0.1', 57020)
+2024-10-12 15:39:16,692 - Accepted connection from ('127.0.0.1', 57035) on port 9992
+2024-10-12 15:39:16,692 - New connection from ('127.0.0.1', 57033)
+2024-10-12 15:39:16,692 - Message received from ('127.0.0.1', 57028): Hello from client 7!
+2024-10-12 15:39:16,692 - Accepted connection from ('127.0.0.1', 57036) on port 9993
+2024-10-12 15:39:16,692 - Reply sent to ('127.0.0.1', 57023)
+2024-10-12 15:39:16,692 - New connection from ('127.0.0.1', 57034)
+2024-10-12 15:39:16,693 - Accepted connection from ('127.0.0.1', 57037) on port 9991
+2024-10-12 15:39:16,693 - Message received from ('127.0.0.1', 57030): Hello from client 8!
+2024-10-12 15:39:16,693 - Connection closed with ('127.0.0.1', 57017)
+2024-10-12 15:39:16,693 - Reply sent to ('127.0.0.1', 57026)
+2024-10-12 15:39:16,693 - Connection closed with ('127.0.0.1', 57020)
+2024-10-12 15:39:16,693 - New connection from ('127.0.0.1', 57035)
+2024-10-12 15:39:16,693 - Message received from ('127.0.0.1', 57033): Hello from client 9!
+2024-10-12 15:39:16,693 - Accepted connection from ('127.0.0.1', 57038) on port 9992
+2024-10-12 15:39:16,693 - Reply sent to ('127.0.0.1', 57028)
+2024-10-12 15:39:16,693 - New connection from ('127.0.0.1', 57036)
+2024-10-12 15:39:16,693 - Connection closed with ('127.0.0.1', 57023)
+2024-10-12 15:39:16,693 - Message received from ('127.0.0.1', 57034): Hello from client 10!
+2024-10-12 15:39:16,693 - Accepted connection from ('127.0.0.1', 57039) on port 9993
+2024-10-12 15:39:16,695 - New connection from ('127.0.0.1', 57037)
+2024-10-12 15:39:16,695 - Reply sent to ('127.0.0.1', 57030)
+2024-10-12 15:39:16,695 - Accepted connection from ('127.0.0.1', 57040) on port 9991
+2024-10-12 15:39:16,695 - Connection closed with ('127.0.0.1', 57026)
+2024-10-12 15:39:16,695 - Message received from ('127.0.0.1', 57035): Hello from client 11!
+2024-10-12 15:39:16,695 - Reply sent to ('127.0.0.1', 57033)
+2024-10-12 15:39:16,695 - New connection from ('127.0.0.1', 57038)
+2024-10-12 15:39:16,695 - Accepted connection from ('127.0.0.1', 57041) on port 9992
+2024-10-12 15:39:16,696 - Connection closed with ('127.0.0.1', 57028)
+2024-10-12 15:39:16,696 - Message received from ('127.0.0.1', 57036): Hello from client 12!
+2024-10-12 15:39:16,696 - Reply sent to ('127.0.0.1', 57034)
+2024-10-12 15:39:16,696 - New connection from ('127.0.0.1', 57039)
+2024-10-12 15:39:16,696 - Message received from ('127.0.0.1', 57037): Hello from client 13!
+2024-10-12 15:39:16,696 - Accepted connection from ('127.0.0.1', 57042) on port 9993
+2024-10-12 15:39:16,697 - New connection from ('127.0.0.1', 57040)
+2024-10-12 15:39:16,697 - Connection closed with ('127.0.0.1', 57030)
+2024-10-12 15:39:16,697 - Accepted connection from ('127.0.0.1', 57043) on port 9991
+2024-10-12 15:39:16,697 - Reply sent to ('127.0.0.1', 57035)
+2024-10-12 15:39:16,697 - Connection closed with ('127.0.0.1', 57033)
+2024-10-12 15:39:16,697 - Message received from ('127.0.0.1', 57038): Hello from client 14!
+2024-10-12 15:39:16,697 - New connection from ('127.0.0.1', 57041)
+2024-10-12 15:39:16,697 - Accepted connection from ('127.0.0.1', 57044) on port 9992
+2024-10-12 15:39:16,698 - Reply sent to ('127.0.0.1', 57036)
+2024-10-12 15:39:16,698 - Connection closed with ('127.0.0.1', 57034)
+2024-10-12 15:39:16,698 - Message received from ('127.0.0.1', 57039): Hello from client 15!
+2024-10-12 15:39:16,698 - Reply sent to ('127.0.0.1', 57037)
+2024-10-12 15:39:16,698 - New connection from ('127.0.0.1', 57042)
+2024-10-12 15:39:16,698 - Message received from ('127.0.0.1', 57040): Hello from client 16!
+2024-10-12 15:39:16,698 - New connection from ('127.0.0.1', 57043)
+2024-10-12 15:39:16,700 - Connection closed with ('127.0.0.1', 57035)
+2024-10-12 15:39:16,700 - Reply sent to ('127.0.0.1', 57038)
+2024-10-12 15:39:16,700 - Message received from ('127.0.0.1', 57041): Hello from client 17!
+2024-10-12 15:39:16,700 - New connection from ('127.0.0.1', 57044)
+2024-10-12 15:39:16,701 - Connection closed with ('127.0.0.1', 57036)
+2024-10-12 15:39:16,701 - Reply sent to ('127.0.0.1', 57039)
+2024-10-12 15:39:16,701 - Message received from ('127.0.0.1', 57042): Hello from client 18!
+2024-10-12 15:39:16,701 - Connection closed with ('127.0.0.1', 57037)
+2024-10-12 15:39:16,701 - Reply sent to ('127.0.0.1', 57040)
+2024-10-12 15:39:16,701 - Message received from ('127.0.0.1', 57043): Hello from client 19!
+2024-10-12 15:39:16,702 - Connection closed with ('127.0.0.1', 57038)
+2024-10-12 15:39:16,702 - Reply sent to ('127.0.0.1', 57041)
+2024-10-12 15:39:16,702 - Message received from ('127.0.0.1', 57044): Hello from client 20!
+2024-10-12 15:39:16,702 - Connection closed with ('127.0.0.1', 57039)
+2024-10-12 15:39:16,702 - Reply sent to ('127.0.0.1', 57042)
+2024-10-12 15:39:16,703 - Connection closed with ('127.0.0.1', 57040)
+2024-10-12 15:39:16,703 - Reply sent to ('127.0.0.1', 57043)
+2024-10-12 15:39:16,703 - Reply sent to ('127.0.0.1', 57044)
+2024-10-12 15:39:16,703 - Connection closed with ('127.0.0.1', 57041)
+2024-10-12 15:39:16,703 - Connection closed with ('127.0.0.1', 57042)
+2024-10-12 15:39:16,704 - Connection closed with ('127.0.0.1', 57043)
+2024-10-12 15:39:16,704 - Connection closed with ('127.0.0.1', 57044)
+2024-10-12 15:58:16,066 - Accepted connection from ('127.0.0.1', 57344) on port 9991
+2024-10-12 15:58:16,066 - Accepted connection from ('127.0.0.1', 57346) on port 9992
+2024-10-12 15:58:16,067 - Accepted connection from ('127.0.0.1', 57349) on port 9993
+2024-10-12 15:58:16,067 - New connection from ('127.0.0.1', 57344)
+2024-10-12 15:58:16,067 - New connection from ('127.0.0.1', 57346)
+2024-10-12 15:58:16,067 - Accepted connection from ('127.0.0.1', 57353) on port 9991
+2024-10-12 15:58:16,067 - New connection from ('127.0.0.1', 57349)
+2024-10-12 15:58:16,067 - Accepted connection from ('127.0.0.1', 57355) on port 9992
+2024-10-12 15:58:16,068 - Message received from ('127.0.0.1', 57344): Hello from client 1!
+2024-10-12 15:58:16,068 - Accepted connection from ('127.0.0.1', 57358) on port 9993
+2024-10-12 15:58:16,068 - Message received from ('127.0.0.1', 57346): Hello from client 2!
+2024-10-12 15:58:16,069 - New connection from ('127.0.0.1', 57353)
+2024-10-12 15:58:16,069 - Message received from ('127.0.0.1', 57349): Hello from client 3!
+2024-10-12 15:58:16,069 - Accepted connection from ('127.0.0.1', 57360) on port 9991
+2024-10-12 15:58:16,069 - New connection from ('127.0.0.1', 57355)
+2024-10-12 15:58:16,069 - Reply sent to ('127.0.0.1', 57344)
+2024-10-12 15:58:16,069 - Accepted connection from ('127.0.0.1', 57363) on port 9992
+2024-10-12 15:58:16,069 - New connection from ('127.0.0.1', 57358)
+2024-10-12 15:58:16,069 - Reply sent to ('127.0.0.1', 57346)
+2024-10-12 15:58:16,070 - Accepted connection from ('127.0.0.1', 57366) on port 9993
+2024-10-12 15:58:16,070 - Message received from ('127.0.0.1', 57353): Hello from client 4!
+2024-10-12 15:58:16,070 - Reply sent to ('127.0.0.1', 57349)
+2024-10-12 15:58:16,070 - New connection from ('127.0.0.1', 57360)
+2024-10-12 15:58:16,070 - Message received from ('127.0.0.1', 57355): Hello from client 5!
+2024-10-12 15:58:16,070 - Accepted connection from ('127.0.0.1', 57369) on port 9991
+2024-10-12 15:58:16,070 - New connection from ('127.0.0.1', 57363)
+2024-10-12 15:58:16,070 - Connection closed with ('127.0.0.1', 57344)
+2024-10-12 15:58:16,070 - Message received from ('127.0.0.1', 57358): Hello from client 6!
+2024-10-12 15:58:16,070 - Accepted connection from ('127.0.0.1', 57371) on port 9992
+2024-10-12 15:58:16,072 - New connection from ('127.0.0.1', 57366)
+2024-10-12 15:58:16,072 - Connection closed with ('127.0.0.1', 57346)
+2024-10-12 15:58:16,072 - Reply sent to ('127.0.0.1', 57353)
+2024-10-12 15:58:16,072 - Accepted connection from ('127.0.0.1', 57374) on port 9993
+2024-10-12 15:58:16,072 - Connection closed with ('127.0.0.1', 57349)
+2024-10-12 15:58:16,072 - Message received from ('127.0.0.1', 57360): Hello from client 7!
+2024-10-12 15:58:16,072 - Reply sent to ('127.0.0.1', 57355)
+2024-10-12 15:58:16,072 - New connection from ('127.0.0.1', 57369)
+2024-10-12 15:58:16,072 - Message received from ('127.0.0.1', 57363): Hello from client 8!
+2024-10-12 15:58:16,072 - Accepted connection from ('127.0.0.1', 57376) on port 9991
+2024-10-12 15:58:16,073 - Reply sent to ('127.0.0.1', 57358)
+2024-10-12 15:58:16,073 - New connection from ('127.0.0.1', 57371)
+2024-10-12 15:58:16,073 - Accepted connection from ('127.0.0.1', 57379) on port 9992
+2024-10-12 15:58:16,073 - Message received from ('127.0.0.1', 57366): Hello from client 9!
+2024-10-12 15:58:16,073 - New connection from ('127.0.0.1', 57374)
+2024-10-12 15:58:16,073 - Connection closed with ('127.0.0.1', 57353)
+2024-10-12 15:58:16,074 - Accepted connection from ('127.0.0.1', 57382) on port 9993
+2024-10-12 15:58:16,074 - Reply sent to ('127.0.0.1', 57360)
+2024-10-12 15:58:16,074 - Connection closed with ('127.0.0.1', 57355)
+2024-10-12 15:58:16,074 - Message received from ('127.0.0.1', 57369): Hello from client 10!
+2024-10-12 15:58:16,074 - Reply sent to ('127.0.0.1', 57363)
+2024-10-12 15:58:16,074 - New connection from ('127.0.0.1', 57376)
+2024-10-12 15:58:16,075 - Connection closed with ('127.0.0.1', 57358)
+2024-10-12 15:58:16,075 - Message received from ('127.0.0.1', 57371): Hello from client 11!
+2024-10-12 15:58:16,075 - Accepted connection from ('127.0.0.1', 57384) on port 9991
+2024-10-12 15:58:16,075 - New connection from ('127.0.0.1', 57379)
+2024-10-12 15:58:16,075 - Reply sent to ('127.0.0.1', 57366)
+2024-10-12 15:58:16,075 - Accepted connection from ('127.0.0.1', 57386) on port 9992
+2024-10-12 15:58:16,075 - Message received from ('127.0.0.1', 57374): Hello from client 12!
+2024-10-12 15:58:16,076 - New connection from ('127.0.0.1', 57382)
+2024-10-12 15:58:16,076 - Accepted connection from ('127.0.0.1', 57389) on port 9993
+2024-10-12 15:58:16,076 - Connection closed with ('127.0.0.1', 57360)
+2024-10-12 15:58:16,076 - Reply sent to ('127.0.0.1', 57369)
+2024-10-12 15:58:16,076 - Connection closed with ('127.0.0.1', 57363)
+2024-10-12 15:58:16,076 - Message received from ('127.0.0.1', 57376): Hello from client 13!
+2024-10-12 15:58:16,077 - Reply sent to ('127.0.0.1', 57371)
+2024-10-12 15:58:16,077 - New connection from ('127.0.0.1', 57384)
+2024-10-12 15:58:16,077 - Message received from ('127.0.0.1', 57379): Hello from client 14!
+2024-10-12 15:58:16,077 - Accepted connection from ('127.0.0.1', 57392) on port 9991
+2024-10-12 15:58:16,077 - Connection closed with ('127.0.0.1', 57366)
+2024-10-12 15:58:16,078 - New connection from ('127.0.0.1', 57386)
+2024-10-12 15:58:16,078 - Accepted connection from ('127.0.0.1', 57395) on port 9992
+2024-10-12 15:58:16,078 - Reply sent to ('127.0.0.1', 57374)
+2024-10-12 15:58:16,078 - Message received from ('127.0.0.1', 57382): Hello from client 15!
+2024-10-12 15:58:16,078 - New connection from ('127.0.0.1', 57389)
+2024-10-12 15:58:16,078 - Accepted connection from ('127.0.0.1', 57397) on port 9993
+2024-10-12 15:58:16,080 - Connection closed with ('127.0.0.1', 57369)
+2024-10-12 15:58:16,080 - Reply sent to ('127.0.0.1', 57376)
+2024-10-12 15:58:16,080 - Connection closed with ('127.0.0.1', 57371)
+2024-10-12 15:58:16,080 - Message received from ('127.0.0.1', 57384): Hello from client 16!
+2024-10-12 15:58:16,080 - Reply sent to ('127.0.0.1', 57379)
+2024-10-12 15:58:16,080 - New connection from ('127.0.0.1', 57392)
+2024-10-12 15:58:16,080 - Accepted connection from ('127.0.0.1', 57400) on port 9991
+2024-10-12 15:58:16,080 - Message received from ('127.0.0.1', 57386): Hello from client 17!
+2024-10-12 15:58:16,080 - New connection from ('127.0.0.1', 57395)
+2024-10-12 15:58:16,081 - Connection closed with ('127.0.0.1', 57374)
+2024-10-12 15:58:16,081 - Accepted connection from ('127.0.0.1', 57403) on port 9992
+2024-10-12 15:58:16,081 - Reply sent to ('127.0.0.1', 57382)
+2024-10-12 15:58:16,081 - Message received from ('127.0.0.1', 57389): Hello from client 18!
+2024-10-12 15:58:16,081 - New connection from ('127.0.0.1', 57397)
+2024-10-12 15:58:16,081 - Accepted connection from ('127.0.0.1', 57405) on port 9993
+2024-10-12 15:58:16,081 - Connection closed with ('127.0.0.1', 57376)
+2024-10-12 15:58:16,082 - Reply sent to ('127.0.0.1', 57384)
+2024-10-12 15:58:16,082 - Connection closed with ('127.0.0.1', 57379)
+2024-10-12 15:58:16,082 - Message received from ('127.0.0.1', 57392): Hello from client 19!
+2024-10-12 15:58:16,082 - New connection from ('127.0.0.1', 57400)
+2024-10-12 15:58:16,082 - Reply sent to ('127.0.0.1', 57386)
+2024-10-12 15:58:16,082 - Accepted connection from ('127.0.0.1', 57409) on port 9991
+2024-10-12 15:58:16,082 - Message received from ('127.0.0.1', 57395): Hello from client 20!
+2024-10-12 15:58:16,082 - New connection from ('127.0.0.1', 57403)
+2024-10-12 15:58:16,084 - Connection closed with ('127.0.0.1', 57382)
+2024-10-12 15:58:16,084 - Accepted connection from ('127.0.0.1', 57411) on port 9992
+2024-10-12 15:58:16,084 - Reply sent to ('127.0.0.1', 57389)
+2024-10-12 15:58:16,084 - Message received from ('127.0.0.1', 57397): Hello from client 21!
+2024-10-12 15:58:16,084 - New connection from ('127.0.0.1', 57405)
+2024-10-12 15:58:16,084 - Accepted connection from ('127.0.0.1', 57414) on port 9993
+2024-10-12 15:58:16,085 - Connection closed with ('127.0.0.1', 57384)
+2024-10-12 15:58:16,085 - Reply sent to ('127.0.0.1', 57392)
+2024-10-12 15:58:16,085 - Message received from ('127.0.0.1', 57400): Hello from client 22!
+2024-10-12 15:58:16,085 - Connection closed with ('127.0.0.1', 57386)
+2024-10-12 15:58:16,085 - New connection from ('127.0.0.1', 57409)
+2024-10-12 15:58:16,085 - Reply sent to ('127.0.0.1', 57395)
+2024-10-12 15:58:16,085 - Accepted connection from ('127.0.0.1', 57416) on port 9991
+2024-10-12 15:58:16,085 - Message received from ('127.0.0.1', 57403): Hello from client 23!
+2024-10-12 15:58:16,086 - New connection from ('127.0.0.1', 57411)
+2024-10-12 15:58:16,086 - Accepted connection from ('127.0.0.1', 57419) on port 9992
+2024-10-12 15:58:16,086 - Reply sent to ('127.0.0.1', 57397)
+2024-10-12 15:58:16,086 - Connection closed with ('127.0.0.1', 57389)
+2024-10-12 15:58:16,086 - Message received from ('127.0.0.1', 57405): Hello from client 24!
+2024-10-12 15:58:16,086 - New connection from ('127.0.0.1', 57414)
+2024-10-12 15:58:16,086 - Accepted connection from ('127.0.0.1', 57422) on port 9993
+2024-10-12 15:58:16,087 - Connection closed with ('127.0.0.1', 57392)
+2024-10-12 15:58:16,087 - Reply sent to ('127.0.0.1', 57400)
+2024-10-12 15:58:16,087 - Message received from ('127.0.0.1', 57409): Hello from client 25!
+2024-10-12 15:58:16,087 - Connection closed with ('127.0.0.1', 57395)
+2024-10-12 15:58:16,087 - New connection from ('127.0.0.1', 57416)
+2024-10-12 15:58:16,087 - Reply sent to ('127.0.0.1', 57403)
+2024-10-12 15:58:16,087 - Accepted connection from ('127.0.0.1', 57424) on port 9991
+2024-10-12 15:58:16,088 - Message received from ('127.0.0.1', 57411): Hello from client 26!
+2024-10-12 15:58:16,088 - New connection from ('127.0.0.1', 57419)
+2024-10-12 15:58:16,088 - Accepted connection from ('127.0.0.1', 57427) on port 9992
+2024-10-12 15:58:16,088 - Connection closed with ('127.0.0.1', 57397)
+2024-10-12 15:58:16,088 - Reply sent to ('127.0.0.1', 57405)
+2024-10-12 15:58:16,088 - Message received from ('127.0.0.1', 57414): Hello from client 27!
+2024-10-12 15:58:16,088 - New connection from ('127.0.0.1', 57422)
+2024-10-12 15:58:16,089 - Accepted connection from ('127.0.0.1', 57430) on port 9993
+2024-10-12 15:58:16,089 - Connection closed with ('127.0.0.1', 57400)
+2024-10-12 15:58:16,089 - Reply sent to ('127.0.0.1', 57409)
+2024-10-12 15:58:16,089 - Message received from ('127.0.0.1', 57416): Hello from client 28!
+2024-10-12 15:58:16,089 - Connection closed with ('127.0.0.1', 57403)
+2024-10-12 15:58:16,089 - New connection from ('127.0.0.1', 57424)
+2024-10-12 15:58:16,089 - Reply sent to ('127.0.0.1', 57411)
+2024-10-12 15:58:16,089 - Accepted connection from ('127.0.0.1', 57441) on port 9991
+2024-10-12 15:58:16,089 - Message received from ('127.0.0.1', 57419): Hello from client 29!
+2024-10-12 15:58:16,089 - New connection from ('127.0.0.1', 57427)
+2024-10-12 15:58:16,091 - Accepted connection from ('127.0.0.1', 57444) on port 9992
+2024-10-12 15:58:16,091 - Connection closed with ('127.0.0.1', 57405)
+2024-10-12 15:58:16,091 - Reply sent to ('127.0.0.1', 57414)
+2024-10-12 15:58:16,091 - Message received from ('127.0.0.1', 57422): Hello from client 30!
+2024-10-12 15:58:16,091 - New connection from ('127.0.0.1', 57430)
+2024-10-12 15:58:16,091 - Accepted connection from ('127.0.0.1', 57447) on port 9993
+2024-10-12 15:58:16,091 - Connection closed with ('127.0.0.1', 57409)
+2024-10-12 15:58:16,091 - Reply sent to ('127.0.0.1', 57416)
+2024-10-12 15:58:16,091 - Message received from ('127.0.0.1', 57424): Hello from client 31!
+2024-10-12 15:58:16,092 - Connection closed with ('127.0.0.1', 57411)
+2024-10-12 15:58:16,092 - New connection from ('127.0.0.1', 57441)
+2024-10-12 15:58:16,092 - Reply sent to ('127.0.0.1', 57419)
+2024-10-12 15:58:16,092 - Accepted connection from ('127.0.0.1', 57458) on port 9991
+2024-10-12 15:58:16,092 - Message received from ('127.0.0.1', 57427): Hello from client 32!
+2024-10-12 15:58:16,092 - New connection from ('127.0.0.1', 57444)
+2024-10-12 15:58:16,092 - Accepted connection from ('127.0.0.1', 57460) on port 9992
+2024-10-12 15:58:16,093 - Connection closed with ('127.0.0.1', 57414)
+2024-10-12 15:58:16,093 - Reply sent to ('127.0.0.1', 57422)
+2024-10-12 15:58:16,093 - Message received from ('127.0.0.1', 57430): Hello from client 33!
+2024-10-12 15:58:16,093 - New connection from ('127.0.0.1', 57447)
+2024-10-12 15:58:16,093 - Accepted connection from ('127.0.0.1', 57471) on port 9993
+2024-10-12 15:58:16,093 - Connection closed with ('127.0.0.1', 57416)
+2024-10-12 15:58:16,093 - Reply sent to ('127.0.0.1', 57424)
+2024-10-12 15:58:16,093 - Message received from ('127.0.0.1', 57441): Hello from client 37!
+2024-10-12 15:58:16,095 - Connection closed with ('127.0.0.1', 57419)
+2024-10-12 15:58:16,095 - New connection from ('127.0.0.1', 57458)
+2024-10-12 15:58:16,095 - Reply sent to ('127.0.0.1', 57427)
+2024-10-12 15:58:16,095 - Message received from ('127.0.0.1', 57444): Hello from client 38!
+2024-10-12 15:58:16,095 - Accepted connection from ('127.0.0.1', 57473) on port 9991
+2024-10-12 15:58:16,095 - New connection from ('127.0.0.1', 57460)
+2024-10-12 15:58:16,096 - Accepted connection from ('127.0.0.1', 57483) on port 9992
+2024-10-12 15:58:16,096 - Connection closed with ('127.0.0.1', 57422)
+2024-10-12 15:58:16,096 - Reply sent to ('127.0.0.1', 57430)
+2024-10-12 15:58:16,096 - Message received from ('127.0.0.1', 57447): Hello from client 39!
+2024-10-12 15:58:16,096 - New connection from ('127.0.0.1', 57471)
+2024-10-12 15:58:16,096 - Accepted connection from ('127.0.0.1', 57486) on port 9993
+2024-10-12 15:58:16,096 - Connection closed with ('127.0.0.1', 57424)
+2024-10-12 15:58:16,096 - Reply sent to ('127.0.0.1', 57441)
+2024-10-12 15:58:16,096 - Message received from ('127.0.0.1', 57458): Hello from client 43!
+2024-10-12 15:58:16,097 - Reply sent to ('127.0.0.1', 57444)
+2024-10-12 15:58:16,097 - Connection closed with ('127.0.0.1', 57427)
+2024-10-12 15:58:16,097 - New connection from ('127.0.0.1', 57473)
+2024-10-12 15:58:16,097 - Message received from ('127.0.0.1', 57460): Hello from client 44!
+2024-10-12 15:58:16,097 - Accepted connection from ('127.0.0.1', 57494) on port 9991
+2024-10-12 15:58:16,097 - New connection from ('127.0.0.1', 57483)
+2024-10-12 15:58:16,097 - Accepted connection from ('127.0.0.1', 57495) on port 9992
+2024-10-12 15:58:16,098 - Connection closed with ('127.0.0.1', 57430)
+2024-10-12 15:58:16,098 - Reply sent to ('127.0.0.1', 57447)
+2024-10-12 15:58:16,098 - Message received from ('127.0.0.1', 57471): Hello from client 48!
+2024-10-12 15:58:16,098 - New connection from ('127.0.0.1', 57486)
+2024-10-12 15:58:16,098 - Accepted connection from ('127.0.0.1', 57499) on port 9993
+2024-10-12 15:58:16,098 - Connection closed with ('127.0.0.1', 57441)
+2024-10-12 15:58:16,098 - Reply sent to ('127.0.0.1', 57458)
+2024-10-12 15:58:16,098 - Connection closed with ('127.0.0.1', 57444)
+2024-10-12 15:58:16,098 - Message received from ('127.0.0.1', 57473): Hello from client 49!
+2024-10-12 15:58:16,099 - Reply sent to ('127.0.0.1', 57460)
+2024-10-12 15:58:16,099 - New connection from ('127.0.0.1', 57494)
+2024-10-12 15:58:16,099 - Message received from ('127.0.0.1', 57483): Hello from client 53!
+2024-10-12 15:58:16,099 - Accepted connection from ('127.0.0.1', 57500) on port 9991
+2024-10-12 15:58:16,099 - New connection from ('127.0.0.1', 57495)
+2024-10-12 15:58:16,099 - Accepted connection from ('127.0.0.1', 57504) on port 9992
+2024-10-12 15:58:16,100 - Reply sent to ('127.0.0.1', 57471)
+2024-10-12 15:58:16,100 - Connection closed with ('127.0.0.1', 57447)
+2024-10-12 15:58:16,100 - Message received from ('127.0.0.1', 57486): Hello from client 54!
+2024-10-12 15:58:16,100 - New connection from ('127.0.0.1', 57499)
+2024-10-12 15:58:16,100 - Accepted connection from ('127.0.0.1', 57505) on port 9993
+2024-10-12 15:58:16,100 - Connection closed with ('127.0.0.1', 57458)
+2024-10-12 15:58:16,102 - Reply sent to ('127.0.0.1', 57473)
+2024-10-12 15:58:16,102 - Message received from ('127.0.0.1', 57494): Hello from client 58!
+2024-10-12 15:58:16,102 - Connection closed with ('127.0.0.1', 57460)
+2024-10-12 15:58:16,102 - Reply sent to ('127.0.0.1', 57483)
+2024-10-12 15:58:16,102 - New connection from ('127.0.0.1', 57500)
+2024-10-12 15:58:16,102 - Message received from ('127.0.0.1', 57495): Hello from client 59!
+2024-10-12 15:58:16,102 - New connection from ('127.0.0.1', 57504)
+2024-10-12 15:58:16,103 - Accepted connection from ('127.0.0.1', 57509) on port 9991
+2024-10-12 15:58:16,103 - Connection closed with ('127.0.0.1', 57471)
+2024-10-12 15:58:16,103 - Accepted connection from ('127.0.0.1', 57510) on port 9992
+2024-10-12 15:58:16,103 - Reply sent to ('127.0.0.1', 57486)
+2024-10-12 15:58:16,103 - Message received from ('127.0.0.1', 57499): Hello from client 63!
+2024-10-12 15:58:16,103 - New connection from ('127.0.0.1', 57505)
+2024-10-12 15:58:16,104 - Accepted connection from ('127.0.0.1', 57511) on port 9993
+2024-10-12 15:58:16,104 - Connection closed with ('127.0.0.1', 57473)
+2024-10-12 15:58:16,104 - Reply sent to ('127.0.0.1', 57494)
+2024-10-12 15:58:16,104 - Message received from ('127.0.0.1', 57500): Hello from client 64!
+2024-10-12 15:58:16,104 - Connection closed with ('127.0.0.1', 57483)
+2024-10-12 15:58:16,105 - Reply sent to ('127.0.0.1', 57495)
+2024-10-12 15:58:16,105 - Message received from ('127.0.0.1', 57504): Hello from client 68!
+2024-10-12 15:58:16,105 - New connection from ('127.0.0.1', 57509)
+2024-10-12 15:58:16,105 - Accepted connection from ('127.0.0.1', 57515) on port 9991
+2024-10-12 15:58:16,105 - New connection from ('127.0.0.1', 57510)
+2024-10-12 15:58:16,105 - Accepted connection from ('127.0.0.1', 57516) on port 9992
+2024-10-12 15:58:16,106 - Connection closed with ('127.0.0.1', 57486)
+2024-10-12 15:58:16,106 - Reply sent to ('127.0.0.1', 57499)
+2024-10-12 15:58:16,106 - Message received from ('127.0.0.1', 57505): Hello from client 69!
+2024-10-12 15:58:16,106 - New connection from ('127.0.0.1', 57511)
+2024-10-12 15:58:16,106 - Accepted connection from ('127.0.0.1', 57517) on port 9993
+2024-10-12 15:58:16,106 - Connection closed with ('127.0.0.1', 57494)
+2024-10-12 15:58:16,106 - Reply sent to ('127.0.0.1', 57500)
+2024-10-12 15:58:16,107 - Connection closed with ('127.0.0.1', 57495)
+2024-10-12 15:58:16,107 - Reply sent to ('127.0.0.1', 57504)
+2024-10-12 15:58:16,107 - Message received from ('127.0.0.1', 57509): Hello from client 73!
+2024-10-12 15:58:16,107 - New connection from ('127.0.0.1', 57515)
+2024-10-12 15:58:16,108 - Message received from ('127.0.0.1', 57510): Hello from client 74!
+2024-10-12 15:58:16,108 - Accepted connection from ('127.0.0.1', 57521) on port 9991
+2024-10-12 15:58:16,108 - New connection from ('127.0.0.1', 57516)
+2024-10-12 15:58:16,108 - Accepted connection from ('127.0.0.1', 57522) on port 9992
+2024-10-12 15:58:16,108 - Reply sent to ('127.0.0.1', 57505)
+2024-10-12 15:58:16,108 - Connection closed with ('127.0.0.1', 57499)
+2024-10-12 15:58:16,108 - Message received from ('127.0.0.1', 57511): Hello from client 75!
+2024-10-12 15:58:16,108 - New connection from ('127.0.0.1', 57517)
+2024-10-12 15:58:16,109 - Accepted connection from ('127.0.0.1', 57523) on port 9993
+2024-10-12 15:58:16,109 - Connection closed with ('127.0.0.1', 57500)
+2024-10-12 15:58:16,109 - Connection closed with ('127.0.0.1', 57504)
+2024-10-12 15:58:16,109 - Reply sent to ('127.0.0.1', 57509)
+2024-10-12 15:58:16,109 - Message received from ('127.0.0.1', 57515): Hello from client 79!
+2024-10-12 15:58:16,109 - Reply sent to ('127.0.0.1', 57510)
+2024-10-12 15:58:16,110 - New connection from ('127.0.0.1', 57521)
+2024-10-12 15:58:16,110 - Message received from ('127.0.0.1', 57516): Hello from client 80!
+2024-10-12 15:58:16,110 - Accepted connection from ('127.0.0.1', 57527) on port 9991
+2024-10-12 15:58:16,110 - New connection from ('127.0.0.1', 57522)
+2024-10-12 15:58:16,110 - Accepted connection from ('127.0.0.1', 57528) on port 9992
+2024-10-12 15:58:16,110 - Connection closed with ('127.0.0.1', 57505)
+2024-10-12 15:58:16,111 - Reply sent to ('127.0.0.1', 57511)
+2024-10-12 15:58:16,111 - Message received from ('127.0.0.1', 57517): Hello from client 81!
+2024-10-12 15:58:16,111 - New connection from ('127.0.0.1', 57523)
+2024-10-12 15:58:16,111 - Accepted connection from ('127.0.0.1', 57529) on port 9993
+2024-10-12 15:58:16,111 - Connection closed with ('127.0.0.1', 57509)
+2024-10-12 15:58:16,111 - Reply sent to ('127.0.0.1', 57515)
+2024-10-12 15:58:16,111 - Message received from ('127.0.0.1', 57521): Hello from client 85!
+2024-10-12 15:58:16,111 - Connection closed with ('127.0.0.1', 57510)
+2024-10-12 15:58:16,113 - Reply sent to ('127.0.0.1', 57516)
+2024-10-12 15:58:16,113 - New connection from ('127.0.0.1', 57527)
+2024-10-12 15:58:16,113 - Message received from ('127.0.0.1', 57522): Hello from client 86!
+2024-10-12 15:58:16,113 - Accepted connection from ('127.0.0.1', 57533) on port 9991
+2024-10-12 15:58:16,113 - New connection from ('127.0.0.1', 57528)
+2024-10-12 15:58:16,113 - Accepted connection from ('127.0.0.1', 57534) on port 9992
+2024-10-12 15:58:16,113 - Connection closed with ('127.0.0.1', 57511)
+2024-10-12 15:58:16,113 - Reply sent to ('127.0.0.1', 57517)
+2024-10-12 15:58:16,114 - Message received from ('127.0.0.1', 57523): Hello from client 87!
+2024-10-12 15:58:16,114 - New connection from ('127.0.0.1', 57529)
+2024-10-12 15:58:16,114 - Connection closed with ('127.0.0.1', 57515)
+2024-10-12 15:58:16,114 - Reply sent to ('127.0.0.1', 57521)
+2024-10-12 15:58:16,114 - Message received from ('127.0.0.1', 57527): Hello from client 91!
+2024-10-12 15:58:16,114 - Connection closed with ('127.0.0.1', 57516)
+2024-10-12 15:58:16,114 - Reply sent to ('127.0.0.1', 57522)
+2024-10-12 15:58:16,115 - New connection from ('127.0.0.1', 57533)
+2024-10-12 15:58:16,115 - Message received from ('127.0.0.1', 57528): Hello from client 92!
+2024-10-12 15:58:16,115 - New connection from ('127.0.0.1', 57534)
+2024-10-12 15:58:16,115 - Connection closed with ('127.0.0.1', 57517)
+2024-10-12 15:58:16,115 - Reply sent to ('127.0.0.1', 57523)
+2024-10-12 15:58:16,117 - Message received from ('127.0.0.1', 57529): Hello from client 93!
+2024-10-12 15:58:16,117 - Connection closed with ('127.0.0.1', 57521)
+2024-10-12 15:58:16,117 - Reply sent to ('127.0.0.1', 57527)
+2024-10-12 15:58:16,117 - Connection closed with ('127.0.0.1', 57522)
+2024-10-12 15:58:16,117 - Message received from ('127.0.0.1', 57533): Hello from client 97!
+2024-10-12 15:58:16,117 - Reply sent to ('127.0.0.1', 57528)
+2024-10-12 15:58:16,117 - Message received from ('127.0.0.1', 57534): Hello from client 98!
+2024-10-12 15:58:16,117 - Connection closed with ('127.0.0.1', 57523)
+2024-10-12 15:58:16,118 - Reply sent to ('127.0.0.1', 57529)
+2024-10-12 15:58:16,118 - Connection closed with ('127.0.0.1', 57527)
+2024-10-12 15:58:16,118 - Reply sent to ('127.0.0.1', 57533)
+2024-10-12 15:58:16,118 - Connection closed with ('127.0.0.1', 57528)
+2024-10-12 15:58:16,118 - Reply sent to ('127.0.0.1', 57534)
+2024-10-12 15:58:16,118 - Connection closed with ('127.0.0.1', 57529)
+2024-10-12 15:58:16,119 - Connection closed with ('127.0.0.1', 57533)
+2024-10-12 15:58:16,119 - Connection closed with ('127.0.0.1', 57534)
+2024-10-12 15:58:16,585 - Accepted connection from ('127.0.0.1', 57463) on port 9993
+2024-10-12 15:58:16,585 - Accepted connection from ('127.0.0.1', 57491) on port 9992
+2024-10-12 15:58:16,585 - Accepted connection from ('127.0.0.1', 57465) on port 9991
+2024-10-12 15:58:16,586 - New connection from ('127.0.0.1', 57463)
+2024-10-12 15:58:16,586 - Accepted connection from ('127.0.0.1', 57439) on port 9993
+2024-10-12 15:58:16,586 - New connection from ('127.0.0.1', 57491)
+2024-10-12 15:58:16,586 - New connection from ('127.0.0.1', 57465)
+2024-10-12 15:58:16,586 - Message received from ('127.0.0.1', 57463): Hello from client 45!
+2024-10-12 15:58:16,586 - Accepted connection from ('127.0.0.1', 57433) on port 9991
+2024-10-12 15:58:16,586 - Accepted connection from ('127.0.0.1', 57436) on port 9992
+2024-10-12 15:58:16,587 - New connection from ('127.0.0.1', 57439)
+2024-10-12 15:58:16,587 - Message received from ('127.0.0.1', 57491): Hello from client 56!
+2024-10-12 15:58:16,587 - Accepted connection from ('127.0.0.1', 57455) on port 9993
+2024-10-12 15:58:16,587 - Message received from ('127.0.0.1', 57465): Hello from client 46!
+2024-10-12 15:58:16,587 - Reply sent to ('127.0.0.1', 57463)
+2024-10-12 15:58:16,587 - New connection from ('127.0.0.1', 57433)
+2024-10-12 15:58:16,587 - Accepted connection from ('127.0.0.1', 57449) on port 9991
+2024-10-12 15:58:16,588 - New connection from ('127.0.0.1', 57436)
+2024-10-12 15:58:16,588 - Message received from ('127.0.0.1', 57439): Hello from client 36!
+2024-10-12 15:58:16,588 - Accepted connection from ('127.0.0.1', 57452) on port 9992
+2024-10-12 15:58:16,588 - Reply sent to ('127.0.0.1', 57491)
+2024-10-12 15:58:16,588 - New connection from ('127.0.0.1', 57455)
+2024-10-12 15:58:16,588 - Reply sent to ('127.0.0.1', 57465)
+2024-10-12 15:58:16,588 - Accepted connection from ('127.0.0.1', 57478) on port 9993
+2024-10-12 15:58:16,588 - Connection closed with ('127.0.0.1', 57463)
+2024-10-12 15:58:16,589 - Message received from ('127.0.0.1', 57433): Hello from client 34!
+2024-10-12 15:58:16,589 - New connection from ('127.0.0.1', 57449)
+2024-10-12 15:58:16,589 - Message received from ('127.0.0.1', 57436): Hello from client 35!
+2024-10-12 15:58:16,589 - Accepted connection from ('127.0.0.1', 57489) on port 9991
+2024-10-12 15:58:16,589 - Reply sent to ('127.0.0.1', 57439)
+2024-10-12 15:58:16,589 - New connection from ('127.0.0.1', 57452)
+2024-10-12 15:58:16,589 - Accepted connection from ('127.0.0.1', 57476) on port 9992
+2024-10-12 15:58:16,590 - Connection closed with ('127.0.0.1', 57491)
+2024-10-12 15:58:16,590 - Message received from ('127.0.0.1', 57455): Hello from client 42!
+2024-10-12 15:58:16,590 - New connection from ('127.0.0.1', 57478)
+2024-10-12 15:58:16,590 - Connection closed with ('127.0.0.1', 57465)
+2024-10-12 15:58:16,590 - Reply sent to ('127.0.0.1', 57433)
+2024-10-12 15:58:16,590 - Message received from ('127.0.0.1', 57449): Hello from client 40!
+2024-10-12 15:58:16,590 - Reply sent to ('127.0.0.1', 57436)
+2024-10-12 15:58:16,591 - New connection from ('127.0.0.1', 57489)
+2024-10-12 15:58:16,591 - Accepted connection from ('127.0.0.1', 57480) on port 9991
+2024-10-12 15:58:16,591 - Connection closed with ('127.0.0.1', 57439)
+2024-10-12 15:58:16,591 - Message received from ('127.0.0.1', 57452): Hello from client 41!
+2024-10-12 15:58:16,591 - New connection from ('127.0.0.1', 57476)
+2024-10-12 15:58:16,591 - Reply sent to ('127.0.0.1', 57455)
+2024-10-12 15:58:16,591 - Accepted connection from ('127.0.0.1', 57468) on port 9992
+2024-10-12 15:58:16,591 - Message received from ('127.0.0.1', 57478): Hello from client 51!
+2024-10-12 15:58:16,593 - Connection closed with ('127.0.0.1', 57433)
+2024-10-12 15:58:16,593 - Reply sent to ('127.0.0.1', 57449)
+2024-10-12 15:58:16,593 - Message received from ('127.0.0.1', 57489): Hello from client 55!
+2024-10-12 15:58:16,593 - New connection from ('127.0.0.1', 57480)
+2024-10-12 15:58:16,593 - Connection closed with ('127.0.0.1', 57436)
+2024-10-12 15:58:16,593 - Reply sent to ('127.0.0.1', 57452)
+2024-10-12 15:58:16,594 - Message received from ('127.0.0.1', 57476): Hello from client 50!
+2024-10-12 15:58:16,594 - Connection closed with ('127.0.0.1', 57455)
+2024-10-12 15:58:16,594 - New connection from ('127.0.0.1', 57468)
+2024-10-12 15:58:16,594 - Reply sent to ('127.0.0.1', 57478)
+2024-10-12 15:58:16,594 - Connection closed with ('127.0.0.1', 57449)
+2024-10-12 15:58:16,594 - Reply sent to ('127.0.0.1', 57489)
+2024-10-12 15:58:16,594 - Message received from ('127.0.0.1', 57480): Hello from client 52!
+2024-10-12 15:58:16,594 - Connection closed with ('127.0.0.1', 57452)
+2024-10-12 15:58:16,594 - Reply sent to ('127.0.0.1', 57476)
+2024-10-12 15:58:16,594 - Message received from ('127.0.0.1', 57468): Hello from client 47!
+2024-10-12 15:58:16,596 - Connection closed with ('127.0.0.1', 57478)
+2024-10-12 15:58:16,596 - Reply sent to ('127.0.0.1', 57480)
+2024-10-12 15:58:16,596 - Connection closed with ('127.0.0.1', 57489)
+2024-10-12 15:58:16,596 - Connection closed with ('127.0.0.1', 57476)
+2024-10-12 15:58:16,596 - Reply sent to ('127.0.0.1', 57468)
+2024-10-12 15:58:16,596 - Connection closed with ('127.0.0.1', 57480)
+2024-10-12 15:58:16,596 - Connection closed with ('127.0.0.1', 57468)
+2024-10-12 15:58:16,601 - Accepted connection from ('127.0.0.1', 57506) on port 9991
+2024-10-12 15:58:16,601 - Accepted connection from ('127.0.0.1', 57493) on port 9993
+2024-10-12 15:58:16,601 - Accepted connection from ('127.0.0.1', 57498) on port 9992
+2024-10-12 15:58:16,601 - New connection from ('127.0.0.1', 57506)
+2024-10-12 15:58:16,601 - New connection from ('127.0.0.1', 57493)
+2024-10-12 15:58:16,602 - Accepted connection from ('127.0.0.1', 57496) on port 9993
+2024-10-12 15:58:16,602 - New connection from ('127.0.0.1', 57498)
+2024-10-12 15:58:16,602 - Accepted connection from ('127.0.0.1', 57497) on port 9991
+2024-10-12 15:58:16,602 - Message received from ('127.0.0.1', 57506): Hello from client 70!
+2024-10-12 15:58:16,602 - Accepted connection from ('127.0.0.1', 57513) on port 9992
+2024-10-12 15:58:16,602 - Message received from ('127.0.0.1', 57493): Hello from client 57!
+2024-10-12 15:58:16,602 - New connection from ('127.0.0.1', 57496)
+2024-10-12 15:58:16,603 - Message received from ('127.0.0.1', 57498): Hello from client 62!
+2024-10-12 15:58:16,603 - New connection from ('127.0.0.1', 57497)
+2024-10-12 15:58:16,603 - Accepted connection from ('127.0.0.1', 57526) on port 9993
+2024-10-12 15:58:16,603 - Accepted connection from ('127.0.0.1', 57530) on port 9991
+2024-10-12 15:58:16,603 - Reply sent to ('127.0.0.1', 57506)
+2024-10-12 15:58:16,603 - New connection from ('127.0.0.1', 57513)
+2024-10-12 15:58:16,603 - Reply sent to ('127.0.0.1', 57493)
+2024-10-12 15:58:16,603 - Accepted connection from ('127.0.0.1', 57531) on port 9992
+2024-10-12 15:58:16,603 - Message received from ('127.0.0.1', 57496): Hello from client 60!
+2024-10-12 15:58:16,603 - Reply sent to ('127.0.0.1', 57498)
+2024-10-12 15:58:16,603 - Message received from ('127.0.0.1', 57497): Hello from client 61!
+2024-10-12 15:58:16,605 - New connection from ('127.0.0.1', 57526)
+2024-10-12 15:58:16,605 - Accepted connection from ('127.0.0.1', 57502) on port 9993
+2024-10-12 15:58:16,605 - New connection from ('127.0.0.1', 57530)
+2024-10-12 15:58:16,605 - Connection closed with ('127.0.0.1', 57506)
+2024-10-12 15:58:16,605 - Message received from ('127.0.0.1', 57513): Hello from client 77!
+2024-10-12 15:58:16,606 - Accepted connection from ('127.0.0.1', 57503) on port 9991
+2024-10-12 15:58:16,606 - New connection from ('127.0.0.1', 57531)
+2024-10-12 15:58:16,606 - Connection closed with ('127.0.0.1', 57493)
+2024-10-12 15:58:16,606 - Accepted connection from ('127.0.0.1', 57501) on port 9992
+2024-10-12 15:58:16,606 - Reply sent to ('127.0.0.1', 57496)
+2024-10-12 15:58:16,606 - Connection closed with ('127.0.0.1', 57498)
+2024-10-12 15:58:16,606 - Reply sent to ('127.0.0.1', 57497)
+2024-10-12 15:58:16,607 - Message received from ('127.0.0.1', 57526): Hello from client 90!
+2024-10-12 15:58:16,607 - New connection from ('127.0.0.1', 57502)
+2024-10-12 15:58:16,607 - Message received from ('127.0.0.1', 57530): Hello from client 94!
+2024-10-12 15:58:16,607 - Accepted connection from ('127.0.0.1', 57514) on port 9993
+2024-10-12 15:58:16,607 - Reply sent to ('127.0.0.1', 57513)
+2024-10-12 15:58:16,608 - New connection from ('127.0.0.1', 57503)
+2024-10-12 15:58:16,608 - Message received from ('127.0.0.1', 57531): Hello from client 95!
+2024-10-12 15:58:16,608 - Accepted connection from ('127.0.0.1', 57512) on port 9991
+2024-10-12 15:58:16,608 - New connection from ('127.0.0.1', 57501)
+2024-10-12 15:58:16,608 - Accepted connection from ('127.0.0.1', 57507) on port 9992
+2024-10-12 15:58:16,608 - Connection closed with ('127.0.0.1', 57496)
+2024-10-12 15:58:16,609 - Connection closed with ('127.0.0.1', 57497)
+2024-10-12 15:58:16,609 - Reply sent to ('127.0.0.1', 57526)
+2024-10-12 15:58:16,609 - Message received from ('127.0.0.1', 57502): Hello from client 66!
+2024-10-12 15:58:16,609 - Reply sent to ('127.0.0.1', 57530)
+2024-10-12 15:58:16,609 - New connection from ('127.0.0.1', 57514)
+2024-10-12 15:58:16,609 - Accepted connection from ('127.0.0.1', 57520) on port 9993
+2024-10-12 15:58:16,609 - Message received from ('127.0.0.1', 57503): Hello from client 67!
+2024-10-12 15:58:16,609 - Connection closed with ('127.0.0.1', 57513)
+2024-10-12 15:58:16,609 - Reply sent to ('127.0.0.1', 57531)
+2024-10-12 15:58:16,611 - New connection from ('127.0.0.1', 57512)
+2024-10-12 15:58:16,611 - Message received from ('127.0.0.1', 57501): Hello from client 65!
+2024-10-12 15:58:16,611 - Accepted connection from ('127.0.0.1', 57524) on port 9991
+2024-10-12 15:58:16,611 - New connection from ('127.0.0.1', 57507)
+2024-10-12 15:58:16,611 - Accepted connection from ('127.0.0.1', 57519) on port 9992
+2024-10-12 15:58:16,611 - Connection closed with ('127.0.0.1', 57526)
+2024-10-12 15:58:16,611 - Reply sent to ('127.0.0.1', 57502)
+2024-10-12 15:58:16,612 - Message received from ('127.0.0.1', 57514): Hello from client 78!
+2024-10-12 15:58:16,612 - Connection closed with ('127.0.0.1', 57530)
+2024-10-12 15:58:16,612 - New connection from ('127.0.0.1', 57520)
+2024-10-12 15:58:16,612 - Reply sent to ('127.0.0.1', 57503)
+2024-10-12 15:58:16,612 - Accepted connection from ('127.0.0.1', 57508) on port 9993
+2024-10-12 15:58:16,613 - Message received from ('127.0.0.1', 57512): Hello from client 76!
+2024-10-12 15:58:16,613 - Connection closed with ('127.0.0.1', 57531)
+2024-10-12 15:58:16,613 - Reply sent to ('127.0.0.1', 57501)
+2024-10-12 15:58:16,613 - New connection from ('127.0.0.1', 57524)
+2024-10-12 15:58:16,613 - Message received from ('127.0.0.1', 57507): Hello from client 71!
+2024-10-12 15:58:16,613 - Accepted connection from ('127.0.0.1', 57518) on port 9991
+2024-10-12 15:58:16,614 - New connection from ('127.0.0.1', 57519)
+2024-10-12 15:58:16,614 - Connection closed with ('127.0.0.1', 57502)
+2024-10-12 15:58:16,614 - Reply sent to ('127.0.0.1', 57514)
+2024-10-12 15:58:16,614 - Message received from ('127.0.0.1', 57520): Hello from client 84!
+2024-10-12 15:58:16,614 - Connection closed with ('127.0.0.1', 57503)
+2024-10-12 15:58:16,614 - New connection from ('127.0.0.1', 57508)
+2024-10-12 15:58:16,614 - Reply sent to ('127.0.0.1', 57512)
+2024-10-12 15:58:16,614 - Connection closed with ('127.0.0.1', 57501)
+2024-10-12 15:58:16,615 - Message received from ('127.0.0.1', 57524): Hello from client 88!
+2024-10-12 15:58:16,615 - Reply sent to ('127.0.0.1', 57507)
+2024-10-12 15:58:16,615 - New connection from ('127.0.0.1', 57518)
+2024-10-12 15:58:16,615 - Message received from ('127.0.0.1', 57519): Hello from client 83!
+2024-10-12 15:58:16,615 - Accepted connection from ('127.0.0.1', 57536) on port 9991
+2024-10-12 15:58:16,615 - Connection closed with ('127.0.0.1', 57514)
+2024-10-12 15:58:16,615 - Reply sent to ('127.0.0.1', 57520)
+2024-10-12 15:58:16,615 - Message received from ('127.0.0.1', 57508): Hello from client 72!
+2024-10-12 15:58:16,616 - Connection closed with ('127.0.0.1', 57512)
+2024-10-12 15:58:16,616 - Reply sent to ('127.0.0.1', 57524)
+2024-10-12 15:58:16,616 - Connection closed with ('127.0.0.1', 57507)
+2024-10-12 15:58:16,616 - Message received from ('127.0.0.1', 57518): Hello from client 82!
+2024-10-12 15:58:16,616 - Reply sent to ('127.0.0.1', 57519)
+2024-10-12 15:58:16,617 - New connection from ('127.0.0.1', 57536)
+2024-10-12 15:58:16,617 - Connection closed with ('127.0.0.1', 57520)
+2024-10-12 15:58:16,617 - Reply sent to ('127.0.0.1', 57508)
+2024-10-12 15:58:16,617 - Connection closed with ('127.0.0.1', 57524)
+2024-10-12 15:58:16,618 - Reply sent to ('127.0.0.1', 57518)
+2024-10-12 15:58:16,618 - Message received from ('127.0.0.1', 57536): Hello from client 100!
+2024-10-12 15:58:16,618 - Connection closed with ('127.0.0.1', 57519)
+2024-10-12 15:58:16,618 - Connection closed with ('127.0.0.1', 57508)
+2024-10-12 15:58:16,618 - Reply sent to ('127.0.0.1', 57536)
+2024-10-12 15:58:16,618 - Connection closed with ('127.0.0.1', 57518)
+2024-10-12 15:58:16,619 - Connection closed with ('127.0.0.1', 57536)
+2024-10-12 15:58:17,101 - Accepted connection from ('127.0.0.1', 57525) on port 9992
+2024-10-12 15:58:17,101 - Accepted connection from ('127.0.0.1', 57535) on port 9993
+2024-10-12 15:58:17,102 - New connection from ('127.0.0.1', 57525)
+2024-10-12 15:58:17,102 - New connection from ('127.0.0.1', 57535)
+2024-10-12 15:58:17,102 - Message received from ('127.0.0.1', 57525): Hello from client 89!
+2024-10-12 15:58:17,102 - Message received from ('127.0.0.1', 57535): Hello from client 99!
+2024-10-12 15:58:17,102 - Reply sent to ('127.0.0.1', 57525)
+2024-10-12 15:58:17,102 - Reply sent to ('127.0.0.1', 57535)
+2024-10-12 15:58:17,102 - Connection closed with ('127.0.0.1', 57525)
+2024-10-12 15:58:17,103 - Connection closed with ('127.0.0.1', 57535)
+2024-10-12 15:58:17,109 - Accepted connection from ('127.0.0.1', 57532) on port 9993
+2024-10-12 15:58:17,109 - New connection from ('127.0.0.1', 57532)
+2024-10-12 15:58:17,109 - Message received from ('127.0.0.1', 57532): Hello from client 96!
+2024-10-12 15:58:17,109 - Reply sent to ('127.0.0.1', 57532)
+2024-10-12 15:58:17,110 - Connection closed with ('127.0.0.1', 57532)
+2024-10-12 15:58:24,910 - Accepted connection from ('127.0.0.1', 57543) on port 9992
+2024-10-12 15:58:24,910 - Accepted connection from ('127.0.0.1', 57544) on port 9993
+2024-10-12 15:58:24,910 - New connection from ('127.0.0.1', 57543)
+2024-10-12 15:58:24,910 - Accepted connection from ('127.0.0.1', 57547) on port 9991
+2024-10-12 15:58:24,910 - New connection from ('127.0.0.1', 57544)
+2024-10-12 15:58:24,911 - Message received from ('127.0.0.1', 57543): Hello from client 1!
+2024-10-12 15:58:24,911 - Accepted connection from ('127.0.0.1', 57550) on port 9992
+2024-10-12 15:58:24,911 - New connection from ('127.0.0.1', 57547)
+2024-10-12 15:58:24,911 - Message received from ('127.0.0.1', 57544): Hello from client 2!
+2024-10-12 15:58:24,911 - Accepted connection from ('127.0.0.1', 57551) on port 9993
+2024-10-12 15:58:24,911 - Reply sent to ('127.0.0.1', 57543)
+2024-10-12 15:58:24,911 - Accepted connection from ('127.0.0.1', 57552) on port 9991
+2024-10-12 15:58:24,911 - New connection from ('127.0.0.1', 57550)
+2024-10-12 15:58:24,912 - Message received from ('127.0.0.1', 57547): Hello from client 3!
+2024-10-12 15:58:24,912 - Accepted connection from ('127.0.0.1', 57553) on port 9992
+2024-10-12 15:58:24,912 - Reply sent to ('127.0.0.1', 57544)
+2024-10-12 15:58:24,912 - New connection from ('127.0.0.1', 57551)
+2024-10-12 15:58:24,912 - New connection from ('127.0.0.1', 57552)
+2024-10-12 15:58:24,912 - Accepted connection from ('127.0.0.1', 57554) on port 9993
+2024-10-12 15:58:24,912 - Connection closed with ('127.0.0.1', 57543)
+2024-10-12 15:58:24,912 - Message received from ('127.0.0.1', 57550): Hello from client 4!
+2024-10-12 15:58:24,912 - Accepted connection from ('127.0.0.1', 57555) on port 9991
+2024-10-12 15:58:24,913 - Reply sent to ('127.0.0.1', 57547)
+2024-10-12 15:58:24,913 - New connection from ('127.0.0.1', 57553)
+2024-10-12 15:58:24,913 - Accepted connection from ('127.0.0.1', 57556) on port 9992
+2024-10-12 15:58:24,913 - Connection closed with ('127.0.0.1', 57544)
+2024-10-12 15:58:24,913 - Message received from ('127.0.0.1', 57551): Hello from client 5!
+2024-10-12 15:58:24,913 - Message received from ('127.0.0.1', 57552): Hello from client 6!
+2024-10-12 15:58:24,913 - New connection from ('127.0.0.1', 57554)
+2024-10-12 15:58:24,913 - Reply sent to ('127.0.0.1', 57550)
+2024-10-12 15:58:24,913 - New connection from ('127.0.0.1', 57555)
+2024-10-12 15:58:24,915 - Message received from ('127.0.0.1', 57553): Hello from client 7!
+2024-10-12 15:58:24,915 - Connection closed with ('127.0.0.1', 57547)
+2024-10-12 15:58:24,915 - New connection from ('127.0.0.1', 57556)
+2024-10-12 15:58:24,915 - Reply sent to ('127.0.0.1', 57551)
+2024-10-12 15:58:24,915 - Reply sent to ('127.0.0.1', 57552)
+2024-10-12 15:58:24,915 - Message received from ('127.0.0.1', 57554): Hello from client 8!
+2024-10-12 15:58:24,915 - Connection closed with ('127.0.0.1', 57550)
+2024-10-12 15:58:24,915 - Message received from ('127.0.0.1', 57555): Hello from client 9!
+2024-10-12 15:58:24,915 - Reply sent to ('127.0.0.1', 57553)
+2024-10-12 15:58:24,916 - Message received from ('127.0.0.1', 57556): Hello from client 10!
+2024-10-12 15:58:24,916 - Connection closed with ('127.0.0.1', 57551)
+2024-10-12 15:58:24,916 - Connection closed with ('127.0.0.1', 57552)
+2024-10-12 15:58:24,916 - Reply sent to ('127.0.0.1', 57554)
+2024-10-12 15:58:24,916 - Reply sent to ('127.0.0.1', 57555)
+2024-10-12 15:58:24,916 - Connection closed with ('127.0.0.1', 57553)
+2024-10-12 15:58:24,916 - Reply sent to ('127.0.0.1', 57556)
+2024-10-12 15:58:24,917 - Connection closed with ('127.0.0.1', 57554)
+2024-10-12 15:58:24,917 - Connection closed with ('127.0.0.1', 57555)
+2024-10-12 15:58:24,917 - Connection closed with ('127.0.0.1', 57556)
+2024-10-12 15:59:32,136 - Accepted connection from ('127.0.0.1', 57570) on port 9991
+2024-10-12 15:59:32,137 - New connection from ('127.0.0.1', 57570) on server port 9991
+2024-10-12 15:59:32,137 - Message received from ('127.0.0.1', 57570): Hello from client 2!
+2024-10-12 15:59:32,137 - Accepted connection from ('127.0.0.1', 57576) on port 9991
+2024-10-12 15:59:32,137 - Reply sent to ('127.0.0.1', 57570)
+2024-10-12 15:59:32,137 - New connection from ('127.0.0.1', 57576) on server port 9991
+2024-10-12 15:59:32,137 - Accepted connection from ('127.0.0.1', 57579) on port 9991
+2024-10-12 15:59:32,139 - Connection closed with ('127.0.0.1', 57570)
+2024-10-12 15:59:32,139 - Message received from ('127.0.0.1', 57576): Hello from client 4!
+2024-10-12 15:59:32,139 - New connection from ('127.0.0.1', 57579) on server port 9991
+2024-10-12 15:59:32,139 - Reply sent to ('127.0.0.1', 57576)
+2024-10-12 15:59:32,139 - Message received from ('127.0.0.1', 57579): Hello from client 7!
+2024-10-12 15:59:32,139 - Accepted connection from ('127.0.0.1', 57582) on port 9991
+2024-10-12 15:59:32,140 - Connection closed with ('127.0.0.1', 57576)
+2024-10-12 15:59:32,140 - Reply sent to ('127.0.0.1', 57579)
+2024-10-12 15:59:32,140 - New connection from ('127.0.0.1', 57582) on server port 9991
+2024-10-12 15:59:32,140 - Connection closed with ('127.0.0.1', 57579)
+2024-10-12 15:59:32,140 - Message received from ('127.0.0.1', 57582): Hello from client 10!
+2024-10-12 15:59:32,141 - Reply sent to ('127.0.0.1', 57582)
+2024-10-12 15:59:32,141 - Connection closed with ('127.0.0.1', 57582)
+2024-10-12 15:59:44,185 - Accepted connection from ('127.0.0.1', 57591) on port 9991
+2024-10-12 15:59:44,185 - New connection from ('127.0.0.1', 57591) on server port 9991
+2024-10-12 15:59:44,185 - Message received from ('127.0.0.1', 57591): Hello from client 3!
+2024-10-12 15:59:44,185 - Reply sent to ('127.0.0.1', 57591)
+2024-10-12 15:59:44,186 - Connection closed with ('127.0.0.1', 57591)
+2024-10-12 16:04:01,118 - Accepted connection from ('127.0.0.1', 57635) on port 9991
+2024-10-12 16:04:01,118 - New connection from ('127.0.0.1', 57635) on server port 9991
+2024-10-12 16:04:01,118 - Message received from ('127.0.0.1', 57635): Hello from client 1!
+2024-10-12 16:04:01,118 - Reply sent to ('127.0.0.1', 57635)
+2024-10-12 16:04:01,119 - Connection closed with ('127.0.0.1', 57635)
+2024-10-12 16:04:01,119 - Accepted connection from ('127.0.0.1', 57640) on port 9991
+2024-10-12 16:04:01,119 - New connection from ('127.0.0.1', 57640) on server port 9991
+2024-10-12 16:04:01,119 - Message received from ('127.0.0.1', 57640): Hello from client 4!
+2024-10-12 16:04:01,119 - Reply sent to ('127.0.0.1', 57640)
+2024-10-12 16:04:01,119 - Connection closed with ('127.0.0.1', 57640)
+2024-10-12 16:04:01,119 - Accepted connection from ('127.0.0.1', 57643) on port 9991
+2024-10-12 16:04:01,120 - New connection from ('127.0.0.1', 57643) on server port 9991
+2024-10-12 16:04:01,120 - Message received from ('127.0.0.1', 57643): Hello from client 7!
+2024-10-12 16:04:01,120 - Reply sent to ('127.0.0.1', 57643)
+2024-10-12 16:04:01,120 - Connection closed with ('127.0.0.1', 57643)
+2024-10-12 16:04:01,120 - Accepted connection from ('127.0.0.1', 57646) on port 9991
+2024-10-12 16:04:01,121 - New connection from ('127.0.0.1', 57646) on server port 9991
+2024-10-12 16:04:01,121 - Message received from ('127.0.0.1', 57646): Hello from client 10!
+2024-10-12 16:04:01,121 - Reply sent to ('127.0.0.1', 57646)
+2024-10-12 16:04:01,122 - Connection closed with ('127.0.0.1', 57646)
+2024-10-12 16:09:37,817 - Accepted connection from ('127.0.0.1', 57765) on port 9991
+2024-10-12 16:09:37,817 - Accepted connection from ('127.0.0.1', 57768) on port 9992
+2024-10-12 16:09:37,818 - Accepted connection from ('127.0.0.1', 57769) on port 9993
+2024-10-12 16:09:37,818 - New connection from ('127.0.0.1', 57765) on server port 9991
+2024-10-12 16:09:37,818 - Accepted connection from ('127.0.0.1', 57770) on port 9991
+
+2024-10-12 16:09:37,819 - Accepted connection from ('127.0.0.1', 57771) on port 9992
+2024-10-12 16:09:37,819 - Message received from ('127.0.0.1', 57765): Hello from client 1!
+2024-10-12 16:09:37,819 - New connection from ('127.0.0.1', 57769) on server port 9993
+2024-10-12 16:09:37,819 - New connection from ('127.0.0.1', 57770) on server port 9991
+2!
+2024-10-12 16:09:37,819 - Accepted connection from ('127.0.0.1', 57772) on port 9993
+2024-10-12 16:09:37,819 - Reply sent to ('127.0.0.1', 57765)
+2024-10-12 16:09:37,819 - New connection from ('127.0.0.1', 57771) on server port 9992
+2024-10-12 16:09:37,819 - Message received from ('127.0.0.1', 57769): Hello from client 3!
+2024-10-12 16:09:37,819 - Message received from ('127.0.0.1', 57770): Hello from client 4!
+2024-10-12 16:09:37,819 - New connection from ('127.0.0.1', 57772) on server port 9993
+2024-10-12 16:09:37,819 - Accepted connection from ('127.0.0.1', 57774) on port 9992
+2024-10-12 16:09:37,819 - Reply sent to ('127.0.0.1', 57769)
+', 57773) on port 9991
+2024-10-12 16:09:37,819 - Message received from ('127.0.0.1', 57771): Hello from client 5!
+2024-10-12 16:09:37,819 - Connection closed with ('127.0.0.1', 57765)
+2024-10-12 16:09:37,819 - Message received from ('127.0.0.1', 57772): Hello from client 6!
+2024-10-12 16:09:37,819 - Reply sent to ('127.0.0.1', 57770)
+2024-10-12 16:09:37,819 - New connection from ('127.0.0.1', 57774) on server port 9992
+2024-10-12 16:09:37,819 - Accepted connection from ('127.0.0.1', 57775) on port 9993
+2024-10-12 16:09:37,819 - New connection from ('127.0.0.1', 57773) on server port 9991
+2024-10-12 16:09:37,819 - Connection closed with ('127.0.0.1', 57768)
+2024-10-12 16:09:37,820 - Accepted connection from ('127.0.0.1', 57776) on port 9991
+2024-10-12 16:09:37,820 - Reply sent to ('127.0.0.1', 57771)
+2024-10-12 16:09:37,820 - Message received from ('127.0.0.1', 57774): Hello from client 8!
+2024-10-12 16:09:37,820 - Reply sent to ('127.0.0.1', 57772)
+2024-10-12 16:09:37,820 - Connection closed with ('127.0.0.1', 57770)
+2024-10-12 16:09:37,820 - New connection from ('127.0.0.1', 57775) on server port 9993
+2024-10-12 16:09:37,820 - Reply sent to ('127.0.0.1', 57774)
+57773): Hello from client 7!
+2024-10-12 16:09:37,820 - New connection from ('127.0.0.1', 57776) on server port 9991
+2024-10-12 16:09:37,820 - Connection closed with ('127.0.0.1', 57774)
+2024-10-12 16:09:37,820 - Reply sent to ('127.0.0.1', 57773)
+2024-10-12 16:09:37,820 - Reply sent to ('127.0.0.1', 57775)
+2024-10-12 16:09:37,820 - Message received from ('127.0.0.1', 57776): Hello from client 10!
+2024-10-12 16:09:37,820 - Connection closed with ('127.0.0.1', 57775)
+2024-10-12 16:09:37,820 - Connection closed with ('127.0.0.1', 57773)
+2024-10-12 16:09:37,820 - Reply sent to ('127.0.0.1', 57776)
+2024-10-12 16:09:37,820 - Connection closed with ('127.0.0.1', 57776)
+2024-10-12 16:12:31,039 - Accepted connection from ('127.0.0.1', 57811) on port 9992
+2024-10-12 16:12:31,040 - Accepted connection from ('127.0.0.1', 57813) on port 9993
+2024-10-12 16:12:31,040 - New connection from ('127.0.0.1', 57811)
+2024-10-12 16:12:31,040 - Accepted connection from ('127.0.0.1', 57816) on port 9991
+2024-10-12 16:12:31,040 - New connection from ('127.0.0.1', 57813)
+2024-10-12 16:12:31,042 - Accepted connection from ('127.0.0.1', 57819) on port 9992
+2024-10-12 16:12:31,042 - Message received from ('127.0.0.1', 57811): Hello from client 1!
+2024-10-12 16:12:31,042 - Accepted connection from ('127.0.0.1', 57820) on port 9993
+2024-10-12 16:12:31,042 - New connection from ('127.0.0.1', 57816)
+2024-10-12 16:12:31,043 - Message received from ('127.0.0.1', 57813): Hello from client 2!
+2024-10-12 16:12:31,043 - Accepted connection from ('127.0.0.1', 57821) on port 9991
+2024-10-12 16:12:31,043 - New connection from ('127.0.0.1', 57819)
+2024-10-12 16:12:31,043 - Reply sent to ('127.0.0.1', 57811)
+2024-10-12 16:12:31,044 - Accepted connection from ('127.0.0.1', 57822) on port 9992
+2024-10-12 16:12:31,044 - New connection from ('127.0.0.1', 57820)
+2024-10-12 16:12:31,044 - Message received from ('127.0.0.1', 57816): Hello from client 3!
+2024-10-12 16:12:31,044 - Accepted connection from ('127.0.0.1', 57823) on port 9993
+2024-10-12 16:12:31,044 - Reply sent to ('127.0.0.1', 57813)
+2024-10-12 16:12:31,045 - New connection from ('127.0.0.1', 57821)
+2024-10-12 16:12:31,045 - Message received from ('127.0.0.1', 57819): Hello from client 4!
+2024-10-12 16:12:31,045 - Accepted connection from ('127.0.0.1', 57824) on port 9991
+2024-10-12 16:12:31,045 - New connection from ('127.0.0.1', 57822)
+2024-10-12 16:12:31,045 - Connection closed with ('127.0.0.1', 57811)
+2024-10-12 16:12:31,045 - Message received from ('127.0.0.1', 57820): Hello from client 5!
+2024-10-12 16:12:31,045 - Accepted connection from ('127.0.0.1', 57825) on port 9992
+2024-10-12 16:12:31,046 - Reply sent to ('127.0.0.1', 57816)
+2024-10-12 16:12:31,046 - New connection from ('127.0.0.1', 57823)
+2024-10-12 16:12:31,046 - Message received from ('127.0.0.1', 57821): Hello from client 6!
+2024-10-12 16:12:31,046 - Connection closed with ('127.0.0.1', 57813)
+2024-10-12 16:12:31,046 - Reply sent to ('127.0.0.1', 57819)
+2024-10-12 16:12:31,046 - New connection from ('127.0.0.1', 57824)
+2024-10-12 16:12:31,046 - Message received from ('127.0.0.1', 57822): Hello from client 7!
+2024-10-12 16:12:31,047 - Reply sent to ('127.0.0.1', 57820)
+2024-10-12 16:12:31,047 - New connection from ('127.0.0.1', 57825)
+2024-10-12 16:12:31,047 - Connection closed with ('127.0.0.1', 57816)
+2024-10-12 16:12:31,047 - Message received from ('127.0.0.1', 57823): Hello from client 8!
+2024-10-12 16:12:31,047 - Reply sent to ('127.0.0.1', 57821)
+2024-10-12 16:12:31,048 - Message received from ('127.0.0.1', 57824): Hello from client 9!
+2024-10-12 16:12:31,048 - Connection closed with ('127.0.0.1', 57819)
+2024-10-12 16:12:31,048 - Reply sent to ('127.0.0.1', 57822)
+2024-10-12 16:12:31,048 - Connection closed with ('127.0.0.1', 57820)
+2024-10-12 16:12:31,048 - Message received from ('127.0.0.1', 57825): Hello from client 10!
+2024-10-12 16:12:31,048 - Reply sent to ('127.0.0.1', 57823)
+2024-10-12 16:12:31,049 - Connection closed with ('127.0.0.1', 57821)
+2024-10-12 16:12:31,049 - Reply sent to ('127.0.0.1', 57824)
+2024-10-12 16:12:31,049 - Connection closed with ('127.0.0.1', 57822)
+2024-10-12 16:12:31,049 - Reply sent to ('127.0.0.1', 57825)
+2024-10-12 16:12:31,049 - Connection closed with ('127.0.0.1', 57823)
+2024-10-12 16:12:31,050 - Connection closed with ('127.0.0.1', 57824)
+2024-10-12 16:12:31,050 - Connection closed with ('127.0.0.1', 57825)
+2024-10-13 11:33:00,553 - Accepted connection from ('127.0.0.1', 51116) on port 9991
+2024-10-13 11:33:00,553 - Accepted connection from ('127.0.0.1', 51117) on port 9992
+2024-10-13 11:33:00,554 - Accepted connection from ('127.0.0.1', 51118) on port 9993
+2024-10-13 11:33:00,554 - New connection from ('127.0.0.1', 51116) on server port 9991
+2024-10-13 11:33:00,554 - Message received from ('127.0.0.1', 51116): Hello from client 2!
+2024-10-13 11:33:00,554 - New connection from ('127.0.0.1', 51117) on server port 9992
+2024-10-13 11:33:00,554 - Accepted connection from ('127.0.0.1', 51119) on port 9991
+2024-10-13 11:33:00,554 - Accepted connection from ('127.0.0.1', 51120) on port 9992
+2024-10-13 11:33:00,554 - Reply sent to ('127.0.0.1', 51116)
+2024-10-13 11:33:00,555 - New connection from ('127.0.0.1', 51118) on server port 9993
+2024-10-13 11:33:00,554 - Message received from ('127.0.0.1', 51117): Hello from client 1!
+2024-10-13 11:33:00,555 - New connection from ('127.0.0.1', 51119) on server port 9991
+2024-10-13 11:33:00,555 - Message received from ('127.0.0.1', 51118): Hello from client 3!
+2024-10-13 11:33:00,555 - New connection from ('127.0.0.1', 51120) on server port 9992
+2024-10-13 11:33:00,555 - Connection closed with ('127.0.0.1', 51116)
+2024-10-13 11:33:00,555 - Accepted connection from ('127.0.0.1', 51121) on port 9993
+2024-10-13 11:33:00,555 - Reply sent to ('127.0.0.1', 51117)
+2024-10-13 11:33:00,555 - Reply sent to ('127.0.0.1', 51118)
+51119): Hello from client 4!
+2024-10-13 11:33:00,555 - Message received from ('127.0.0.1', 51120): Hello from client 5!
+2024-10-13 11:33:00,555 - Accepted connection from ('127.0.0.1', 51122) on port 9991
+2024-10-13 11:33:00,555 - Accepted connection from ('127.0.0.1', 51123) on port 9992
+2024-10-13 11:33:00,555 - New connection from ('127.0.0.1', 51121) on server port 9993
+2024-10-13 11:33:00,555 - Connection closed with ('127.0.0.1', 51118)
+2024-10-13 11:33:00,555 - Connection closed with ('127.0.0.1', 51117)
+2024-10-13 11:33:00,555 - New connection from ('127.0.0.1', 51122) on server port 9991
+2024-10-13 11:33:00,555 - Message received from ('127.0.0.1', 51121): Hello from client 6!
+2024-10-13 11:33:00,555 - Reply sent to ('127.0.0.1', 51120)
+2024-10-13 11:33:00,555 - Accepted connection from ('127.0.0.1', 51124) on port 9993
+2024-10-13 11:33:00,555 - New connection from ('127.0.0.1', 51123) on server port 9992
+2024-10-13 11:33:00,555 - Connection closed with ('127.0.0.1', 51120)
+2024-10-13 11:33:00,555 - Reply sent to ('127.0.0.1', 51121)
+2024-10-13 11:33:00,555 - Message received from ('127.0.0.1', 51122): Hello from client 7!
+2024-10-13 11:33:00,557 - Message received from ('127.0.0.1', 51123): Hello from client 8!
+2024-10-13 11:33:00,557 - New connection from ('127.0.0.1', 51124) on server port 9993
+2024-10-13 11:33:00,555 - Connection closed with ('127.0.0.1', 51119)
+2024-10-13 11:33:00,557 - Reply sent to ('127.0.0.1', 51123)
+2024-10-13 11:33:00,557 - Message received from ('127.0.0.1', 51124): Hello from client 9!
+2024-10-13 11:33:00,557 - New connection from ('127.0.0.1', 51125) on server port 9991
+2024-10-13 11:33:00,557 - Connection closed with ('127.0.0.1', 51123)
+2024-10-13 11:33:00,557 - Reply sent to ('127.0.0.1', 51122)
+2024-10-13 11:33:00,557 - Reply sent to ('127.0.0.1', 51124)
+2024-10-13 11:33:00,557 - Message received from ('127.0.0.1', 51125): Hello from client 10!
+2024-10-13 11:33:00,557 - Connection closed with ('127.0.0.1', 51124)
+2024-10-13 11:33:00,557 - Connection closed with ('127.0.0.1', 51122)
+2024-10-13 11:33:00,557 - Reply sent to ('127.0.0.1', 51125)
+2024-10-13 11:33:00,557 - Connection closed with ('127.0.0.1', 51125)
+2024-10-13 17:39:06,646 - Accepted connection from ('127.0.0.1', 64434) on port 9991
+2024-10-13 17:39:06,646 - Accepted connection from ('127.0.0.1', 64437) on port 9992
+2024-10-13 17:39:06,647 - Accepted connection from ('127.0.0.1', 64439) on port 9993
+2024-10-13 17:39:06,648 - New connection from ('127.0.0.1', 64434) on server port 9991
+2024-10-13 17:39:06,648 - New connection from ('127.0.0.1', 64437) on server port 9992
+2024-10-13 17:39:06,648 - Accepted connection from ('127.0.0.1', 64440) on port 9991
+2024-10-13 17:39:06,648 - Message received from ('127.0.0.1', 64437): Hello from client 2!
+2024-10-13 17:39:06,648 - Accepted connection from ('127.0.0.1', 64441) on port 9992
+2024-10-13 17:39:06,648 - New connection from ('127.0.0.1', 64439) on server port 9993
+2024-10-13 17:39:06,648 - Message received from ('127.0.0.1', 64434): Hello from client 1!
+2024-10-13 17:39:06,648 - Message received from ('127.0.0.1', 64439): Hello from client 3!
+2024-10-13 17:39:06,648 - New connection from ('127.0.0.1', 64440) on server port 9991
+2024-10-13 17:39:06,648 - Reply sent to ('127.0.0.1', 64437)
+2024-10-13 17:39:06,648 - Accepted connection from ('127.0.0.1', 64442) on port 9993
+2024-10-13 17:39:06,648 - Reply sent to ('127.0.0.1', 64434)
+2024-10-13 17:39:06,649 - New connection from ('127.0.0.1', 64441) on server port 9992
+2024-10-13 17:39:06,649 - Accepted connection from ('127.0.0.1', 64443) on port 9991
+2024-10-13 17:39:06,649 - Reply sent to ('127.0.0.1', 64439)
+ 64437)
+2024-10-13 17:39:06,649 - Message received from ('127.0.0.1', 64440): Hello from client 4!
+2024-10-13 17:39:06,649 - New connection from ('127.0.0.1', 64442) on server port 9993
+2024-10-13 17:39:06,649 - Message received from ('127.0.0.1', 64441): Hello from client 5!
+2024-10-13 17:39:06,649 - Accepted connection from ('127.0.0.1', 64444) on port 9992
+2024-10-13 17:39:06,649 - Connection closed with ('127.0.0.1', 64434)
+2024-10-13 17:39:06,649 - New connection from ('127.0.0.1', 64443) on server port 9991
+2024-10-13 17:39:06,649 - Reply sent to ('127.0.0.1', 64441)
+', 64445) on port 9993
+2024-10-13 17:39:06,649 - Reply sent to ('127.0.0.1', 64440)
+2024-10-13 17:39:06,649 - Message received from ('127.0.0.1', 64442): Hello from client 6!
+2024-10-13 17:39:06,649 - Accepted connection from ('127.0.0.1', 64446) on port 9991
+2024-10-13 17:39:06,649 - Connection closed with ('127.0.0.1', 64441)
+2024-10-13 17:39:06,649 - New connection from ('127.0.0.1', 64445) on server port 9993
+2024-10-13 17:39:06,649 - Message received from ('127.0.0.1', 64443): Hello from client 7!
+2024-10-13 17:39:06,649 - Reply sent to ('127.0.0.1', 64442)
+64444): Hello from client 8!
+2024-10-13 17:39:06,649 - Connection closed with ('127.0.0.1', 64440)
+2024-10-13 17:39:06,650 - Message received from ('127.0.0.1', 64445): Hello from client 9!
+2024-10-13 17:39:06,650 - Reply sent to ('127.0.0.1', 64444)
+2024-10-13 17:39:06,650 - Connection closed with ('127.0.0.1', 64442)
+2024-10-13 17:39:06,650 - Connection closed with ('127.0.0.1', 64444)
+2024-10-13 17:39:06,650 - Reply sent to ('127.0.0.1', 64445)
+446) on server port 9991
+2024-10-13 17:39:06,650 - Reply sent to ('127.0.0.1', 64443)
+2024-10-13 17:39:06,650 - Connection closed with ('127.0.0.1', 64445)
+2024-10-13 17:39:06,650 - Message received from ('127.0.0.1', 64446): Hello from client 10!
+2024-10-13 17:39:06,650 - Connection closed with ('127.0.0.1', 64443)
+2024-10-13 17:39:06,650 - Reply sent to ('127.0.0.1', 64446)
+2024-10-13 17:39:06,650 - Connection closed with ('127.0.0.1', 64446)
+2024-10-13 19:02:09,180 - Accepted connection from ('127.0.0.1', 65432) on port 9992
+2024-10-13 19:02:09,180 - Accepted connection from ('127.0.0.1', 65433) on port 9993
+2024-10-13 19:02:09,181 - Accepted connection from ('127.0.0.1', 65434) on port 9991
+2024-10-13 19:02:09,182 - New connection from ('127.0.0.1', 65432) on server port 9992
+2024-10-13 19:02:09,182 - Message received from ('127.0.0.1', 65432): Hello from client 1!
+2024-10-13 19:02:09,182 - Accepted connection from ('127.0.0.1', 65435) on port 9992
+
+2024-10-13 19:02:09,183 - Accepted connection from ('127.0.0.1', 65436) on port 9993
+2024-10-13 19:02:09,183 - Reply sent to ('127.0.0.1', 65432)
+2024-10-13 19:02:09,183 - Message received from ('127.0.0.1', 65433): Hello from client 2!
+2024-10-13 19:02:09,183 - New connection from ('127.0.0.1', 65435) on server port 9992
+2024-10-13 19:02:09,183 - Reply sent to ('127.0.0.1', 65433)
+2024-10-13 19:02:09,183 - Connection closed with ('127.0.0.1', 65432)
+2024-10-13 19:02:09,183 - Message received from ('127.0.0.1', 65435): Hello from client 4!
+2024-10-13 19:02:09,183 - New connection from ('127.0.0.1', 65436) on server port 9993
+2024-10-13 19:02:09,183 - New connection from ('127.0.0.1', 65434) on server port 9991
+2024-10-13 19:02:09,183 - Message received from ('127.0.0.1', 65436): Hello from client 5!
+2024-10-13 19:02:09,183 - Connection closed with ('127.0.0.1', 65435)
+2024-10-13 19:02:09,183 - Connection closed with ('127.0.0.1', 65433)
+2024-10-13 19:02:09,184 - Reply sent to ('127.0.0.1', 65436)
+2024-10-13 19:02:09,184 - Message received from ('127.0.0.1', 65434): Hello from client 3!
+2024-10-13 19:02:09,184 - Connection closed with ('127.0.0.1', 65436)
+2024-10-13 19:02:09,184 - Reply sent to ('127.0.0.1', 65434)
+2024-10-13 19:02:09,184 - Connection closed with ('127.0.0.1', 65434)
+2024-10-13 19:02:12,332 - Accepted connection from ('127.0.0.1', 65442) on port 9991
+2024-10-13 19:02:12,332 - Accepted connection from ('127.0.0.1', 65445) on port 9992
+2024-10-13 19:02:12,332 - New connection from ('127.0.0.1', 65442) on server port 9991
+2024-10-13 19:02:12,332 - Message received from ('127.0.0.1', 65442): Hello from client 1!
+2024-10-13 19:02:12,333 - Reply sent to ('127.0.0.1', 65442)
+2024-10-13 19:02:12,333 - Accepted connection from ('127.0.0.1', 65448) on port 9993
+2024-10-13 19:02:12,333 - New connection from ('127.0.0.1', 65445) on server port 9992
+2024-10-13 19:02:12,333 - Connection closed with ('127.0.0.1', 65442)
+2024-10-13 19:02:12,333 - Message received from ('127.0.0.1', 65445): Hello from client 2!
+2024-10-13 19:02:12,333 - Accepted connection from ('127.0.0.1', 65450) on port 9991
+2024-10-13 19:02:12,333 - Reply sent to ('127.0.0.1', 65445)
+2024-10-13 19:02:12,333 - New connection from ('127.0.0.1', 65448) on server port 9993
+2024-10-13 19:02:12,333 - Connection closed with ('127.0.0.1', 65445)
+2024-10-13 19:02:12,333 - Message received from ('127.0.0.1', 65448): Hello from client 3!
+2024-10-13 19:02:12,333 - Reply sent to ('127.0.0.1', 65448)
+2024-10-13 19:02:12,333 - Accepted connection from ('127.0.0.1', 65453) on port 9992
+
+2024-10-13 19:02:12,333 - Message received from ('127.0.0.1', 65450): Hello from client 4!
+2024-10-13 19:02:12,333 - Reply sent to ('127.0.0.1', 65450)
+2024-10-13 19:02:12,333 - Accepted connection from ('127.0.0.1', 65454) on port 9993
+2024-10-13 19:02:12,333 - New connection from ('127.0.0.1', 65453) on server port 9992
+2024-10-13 19:02:12,333 - Connection closed with ('127.0.0.1', 65450)
+2024-10-13 19:02:12,333 - Message received from ('127.0.0.1', 65453): Hello from client 5!
+2024-10-13 19:02:12,333 - Reply sent to ('127.0.0.1', 65453)
+2024-10-13 19:02:12,333 - New connection from ('127.0.0.1', 65454) on server port 9993
+2024-10-13 19:02:12,333 - Accepted connection from ('127.0.0.1', 65458) on port 9991
+2024-10-13 19:02:12,333 - Connection closed with ('127.0.0.1', 65453)
+2024-10-13 19:02:12,333 - Message received from ('127.0.0.1', 65454): Hello from client 6!
+2024-10-13 19:02:12,335 - Accepted connection from ('127.0.0.1', 65461) on port 9992
+2024-10-13 19:02:12,335 - Reply sent to ('127.0.0.1', 65454)
+458) on server port 9991
+2024-10-13 19:02:12,335 - Message received from ('127.0.0.1', 65458): Hello from client 7!
+2024-10-13 19:02:12,335 - Reply sent to ('127.0.0.1', 65458)
+ 65454)
+erver port 9992
+2024-10-13 19:02:12,335 - Message received from ('127.0.0.1', 65461): Hello from client 8!
+2024-10-13 19:02:12,335 - Connection closed with ('127.0.0.1', 65458)
+2024-10-13 19:02:12,335 - Reply sent to ('127.0.0.1', 65461)
+2024-10-13 19:02:12,335 - Accepted connection from ('127.0.0.1', 65465) on port 9993
+2024-10-13 19:02:12,335 - Connection closed with ('127.0.0.1', 65461)
+2024-10-13 19:02:12,335 - New connection from ('127.0.0.1', 65465) on server port 9993
+2024-10-13 19:02:12,335 - Message received from ('127.0.0.1', 65465): Hello from client 9!
+2024-10-13 19:02:12,335 - Reply sent to ('127.0.0.1', 65465)
+2024-10-13 19:02:12,335 - New connection from ('127.0.0.1', 65466) on server port 9991
+2024-10-13 19:02:12,335 - Accepted connection from ('127.0.0.1', 65467) on port 9992
+t 10!
+2024-10-13 19:02:12,335 - Connection closed with ('127.0.0.1', 65465)
+2024-10-13 19:02:12,335 - Reply sent to ('127.0.0.1', 65466)
+2024-10-13 19:02:12,336 - Connection closed with ('127.0.0.1', 65466)
+2024-10-13 19:02:12,336 - Accepted connection from ('127.0.0.1', 65468) on port 9993
+2024-10-13 19:02:12,336 - New connection from ('127.0.0.1', 65467) on server port 9992
+2024-10-13 19:02:12,336 - Message received from ('127.0.0.1', 65467): Hello from client 11!
+2024-10-13 19:02:12,336 - Reply sent to ('127.0.0.1', 65467)
+2024-10-13 19:02:12,336 - New connection from ('127.0.0.1', 65468) on server port 9993
+2024-10-13 19:02:12,336 - Accepted connection from ('127.0.0.1', 65469) on port 9991
+2024-10-13 19:02:12,336 - Message received from ('127.0.0.1', 65468): Hello from client 12!
+2024-10-13 19:02:12,336 - Connection closed with ('127.0.0.1', 65467)
+2024-10-13 19:02:12,336 - Reply sent to ('127.0.0.1', 65468)
+2024-10-13 19:02:12,336 - New connection from ('127.0.0.1', 65469) on server port 9991
+2024-10-13 19:02:12,336 - Connection closed with ('127.0.0.1', 65468)
+2024-10-13 19:02:12,336 - Message received from ('127.0.0.1', 65469): Hello from client 14!
+2024-10-13 19:02:12,336 - Accepted connection from ('127.0.0.1', 65470) on port 9992
+2024-10-13 19:02:12,336 - Reply sent to ('127.0.0.1', 65469)
+2024-10-13 19:02:12,336 - Connection closed with ('127.0.0.1', 65469)
+2024-10-13 19:02:12,336 - New connection from ('127.0.0.1', 65470) on server port 9992
+2024-10-13 19:02:12,336 - Accepted connection from ('127.0.0.1', 65471) on port 9993
+2024-10-13 19:02:12,337 - Message received from ('127.0.0.1', 65470): Hello from client 15!
+2024-10-13 19:02:12,337 - Reply sent to ('127.0.0.1', 65470)
+2024-10-13 19:02:12,337 - New connection from ('127.0.0.1', 65471) on server port 9993
+2024-10-13 19:02:12,337 - Message received from ('127.0.0.1', 65471): Hello from client 13!
+2024-10-13 19:02:12,337 - Accepted connection from ('127.0.0.1', 65472) on port 9991
+2024-10-13 19:02:12,337 - Reply sent to ('127.0.0.1', 65471)
+2024-10-13 19:02:12,337 - Connection closed with ('127.0.0.1', 65471)
+2024-10-13 19:02:12,337 - Accepted connection from ('127.0.0.1', 65473) on port 9992
+2024-10-13 19:02:12,337 - New connection from ('127.0.0.1', 65472) on server port 9991
+2024-10-13 19:02:12,337 - Message received from ('127.0.0.1', 65472): Hello from client 16!
+2024-10-13 19:02:12,337 - Reply sent to ('127.0.0.1', 65472)
+2024-10-13 19:02:12,337 - New connection from ('127.0.0.1', 65473) on server port 9992
+2024-10-13 19:02:12,337 - Connection closed with ('127.0.0.1', 65472)
+2024-10-13 19:02:12,337 - Message received from ('127.0.0.1', 65473): Hello from client 17!
+2024-10-13 19:02:12,337 - Accepted connection from ('127.0.0.1', 65474) on port 9993
+2024-10-13 19:02:12,337 - Reply sent to ('127.0.0.1', 65473)
+2024-10-13 19:02:12,337 - Connection closed with ('127.0.0.1', 65473)
+2024-10-13 19:02:12,337 - New connection from ('127.0.0.1', 65474) on server port 9993
+2024-10-13 19:02:12,337 - Accepted connection from ('127.0.0.1', 65475) on port 9991
+2024-10-13 19:02:12,337 - Message received from ('127.0.0.1', 65474): Hello from client 18!
+2024-10-13 19:02:12,337 - Reply sent to ('127.0.0.1', 65474)
+2024-10-13 19:02:12,337 - New connection from ('127.0.0.1', 65475) on server port 9991
+2024-10-13 19:02:12,337 - Accepted connection from ('127.0.0.1', 65476) on port 9992
+2024-10-13 19:02:12,337 - Connection closed with ('127.0.0.1', 65474)
+2024-10-13 19:02:12,337 - Message received from ('127.0.0.1', 65475): Hello from client 19!
+2024-10-13 19:02:12,338 - Reply sent to ('127.0.0.1', 65475)
+2024-10-13 19:02:12,338 - New connection from ('127.0.0.1', 65476) on server port 9992
+2024-10-13 19:02:12,338 - Connection closed with ('127.0.0.1', 65475)
+2024-10-13 19:02:12,338 - Message received from ('127.0.0.1', 65476): Hello from client 20!
+2024-10-13 19:02:12,338 - Reply sent to ('127.0.0.1', 65476)
+2024-10-13 19:02:12,338 - Connection closed with ('127.0.0.1', 65476)
